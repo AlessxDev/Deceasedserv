@@ -20010,3 +20010,29 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Jun2025 19:43:50.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4809, l='ServerLevel[world]', x=120.52, y=74.00, z=227.49] died, message: 'Farmer hit the ground too hard'
 [28Jun2025 19:47:03.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Isn't It Iron Pick]
 [28Jun2025 19:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Penteconter]
+[28Jun2025 19:49:33.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss fell from a high place
+[28Jun2025 19:54:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Ol' Betsy]
+[28Jun2025 19:54:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Take Aim]
+[28Jun2025 19:54:48.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has reached the goal [Fighting Nightmares]
+[28Jun2025 19:55:34.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YDCKYT[/127.78.110.85:34727] logged in with entity id 15461 at (-7.5, 82.0, -9.5)
+[28Jun2025 19:55:34.876] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jun2025 19:55:34.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT joined the game
+[28Jun2025 19:55:34.988] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 19:55:35.025] [Server thread/INFO] [Jade/]: Syncing config to YDCKYT (7f029dae-2573-3921-aff8-978b9e6178e1)
+[28Jun2025 19:55:35.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT has made the advancement [Ice and Fire]
+[28Jun2025 19:55:35.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT has reached the goal [Better Together]
+[28Jun2025 19:55:36.716] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 19:55:36.716] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[28Jun2025 19:55:36.716] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 pickerelweed
+[28Jun2025 19:55:36.716] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 19:55:36.717] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[28Jun2025 19:55:47.205] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 19:55:47.206] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[28Jun2025 19:55:47.206] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 pickerelweed
+[28Jun2025 19:55:47.206] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 19:55:47.206] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[28Jun2025 19:55:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Good Demoman]
+[28Jun2025 19:56:10.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Life turned out to be a comedy]
+[28Jun2025 19:56:32.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YDCKYT lost connection: Timed out
+[28Jun2025 19:56:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT left the game
+[28Jun2025 19:56:32.888] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1

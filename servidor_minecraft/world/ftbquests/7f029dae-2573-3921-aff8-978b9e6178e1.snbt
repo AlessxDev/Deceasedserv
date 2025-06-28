@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7f029dae25733921aff8978b9e6178e1"
+	name: "YDCKYT#7f029dae"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

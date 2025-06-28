@@ -152,9 +152,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-06-28 19:52:40 +0000",
+      "minecraft:river": "2025-06-28 19:52:31 +0000",
       "minecraft:forest": "2025-06-28 19:33:44 +0000",
       "minecraft:desert": "2025-06-27 22:22:54 +0000",
-      "atmospheric:atmospheric:dunes": "2025-06-27 22:17:30 +0000"
+      "atmospheric:atmospheric:dunes": "2025-06-27 22:17:30 +0000",
+      "minecraft:plains": "2025-06-28 19:52:39 +0000"
     },
     "done": false
   },
@@ -236,6 +239,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-06-28 19:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:42:17 +0000"
@@ -269,6 +278,18 @@
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 19:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-28 19:54:05 +0000"
     },
     "done": true
   },
@@ -312,6 +333,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-28 19:12:59 +0000",
       "minecraft:vindicator": "2025-06-28 19:36:23 +0000",
+      "minecraft:spider": "2025-06-28 19:50:24 +0000",
       "minecraft:witch": "2025-06-28 19:34:45 +0000",
       "minecraft:zombie": "2025-06-28 19:33:37 +0000"
     },
@@ -320,6 +342,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:42:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-06-28 19:54:48 +0000"
     },
     "done": true
   },
@@ -365,9 +393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-06-28 19:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:17:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-28 19:53:13 +0000"
     },
     "done": true
   },
@@ -380,6 +420,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-28 19:54:05 +0000"
     },
     "done": true
   },
@@ -465,6 +511,12 @@
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-06-28 19:41:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-06-28 19:55:58 +0000"
     },
     "done": true
   },
@@ -584,7 +636,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-28 19:39:49 +0000"
+      "bread": "2025-06-28 19:39:49 +0000",
+      "mushroom_stew": "2025-06-28 19:53:13 +0000"
     },
     "done": false
   },
