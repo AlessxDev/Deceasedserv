@@ -20091,3 +20091,37 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Jun2025 20:04:35.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YDCKYT lost connection: Timed out
 [28Jun2025 20:04:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT left the game
 [28Jun2025 20:04:35.138] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 20:09:43.211] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.213] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.213] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.214] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.214] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.216] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.216] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.217] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.217] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.217] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.218] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.220] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.224] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.225] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.225] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.225] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:09:43.225] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Jun2025 20:10:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [The Apothecary's Abode]
+[28Jun2025 20:10:42.086] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Jun2025 20:10:42.086] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Jun2025 20:10:42.086] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Jun2025 20:10:42.086] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Jun2025 20:10:42.086] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[28Jun2025 20:10:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Crawling in my Bark]
+[28Jun2025 20:10:50.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ajxss moved wrongly!
+[28Jun2025 20:11:09.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ajxss lost connection: Disconnected
+[28Jun2025 20:11:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss left the game
+[28Jun2025 20:11:09.529] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7bbd3b30-b543-36f9-830b-124ed5664ff5
