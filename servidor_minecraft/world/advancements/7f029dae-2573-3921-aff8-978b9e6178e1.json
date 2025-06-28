@@ -122,6 +122,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-06-28 20:00:01 +0000",
       "minecraft:desert": "2025-06-28 19:55:35 +0000"
     },
     "done": false

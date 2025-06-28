@@ -20036,3 +20036,58 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Jun2025 19:56:32.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YDCKYT lost connection: Timed out
 [28Jun2025 19:56:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT left the game
 [28Jun2025 19:56:32.888] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 19:59:56.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YDCKYT[/127.78.110.85:42921] logged in with entity id 17653 at (-7.5, 82.0, -9.5)
+[28Jun2025 19:59:57.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jun2025 19:59:57.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT joined the game
+[28Jun2025 19:59:57.098] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 19:59:57.113] [Server thread/INFO] [Jade/]: Syncing config to YDCKYT (7f029dae-2573-3921-aff8-978b9e6178e1)
+[28Jun2025 19:59:58.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jun2025 19:59:58.389] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jun2025 19:59:58.390] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jun2025 19:59:58.391] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jun2025 19:59:58.392] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jun2025 19:59:58.393] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jun2025 19:59:58.393] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Deceasedserv/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jun2025 20:00:01.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ajxss: Teleported YDCKYT to ajxss]
+[28Jun2025 20:00:54.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YDCKYT lost connection: Timed out
+[28Jun2025 20:00:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT left the game
+[28Jun2025 20:00:54.938] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 20:00:55.042] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 20:03:22.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[28Jun2025 20:03:37.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YDCKYT[/127.78.110.85:43477] logged in with entity id 18182 at (315.69999998807907, 78.0, 235.69999998807907)
+[28Jun2025 20:03:37.091] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jun2025 20:03:37.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT joined the game
+[28Jun2025 20:03:37.192] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
+[28Jun2025 20:03:37.207] [Server thread/INFO] [Jade/]: Syncing config to YDCKYT (7f029dae-2573-3921-aff8-978b9e6178e1)
+[28Jun2025 20:03:37.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[28Jun2025 20:03:37.894] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[28Jun2025 20:03:37.895] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[28Jun2025 20:03:37.896] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/Deceasedserv/servidor_minecraft/bclib-sync (allowDelete=true)
+[28Jun2025 20:04:35.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YDCKYT lost connection: Timed out
+[28Jun2025 20:04:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YDCKYT left the game
+[28Jun2025 20:04:35.138] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7f029dae-2573-3921-aff8-978b9e6178e1
