@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d8dca91da6893dfaa4a9e76624af81c4"
+	name: "Aliz#d8dca91d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

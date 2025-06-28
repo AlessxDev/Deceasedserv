@@ -19979,3 +19979,24 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Jun2025 19:09:37.555] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=251, y=160, z=192}
 [28Jun2025 19:10:51.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Another Desert Temple!]
 [28Jun2025 19:12:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Monster Hunter]
+[28Jun2025 19:15:08.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Oasis Village]
+[28Jun2025 19:15:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement ['X' Marks the Spot]
+[28Jun2025 19:16:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Getting an Upgrade]
+[28Jun2025 19:16:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Barrel Booty]
+[28Jun2025 19:16:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Acquire Hardware]
+[28Jun2025 19:17:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Eye of The Storm]
+[28Jun2025 19:18:38.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aliz[/127.78.110.85:39749] logged in with entity id 2788 at (-2.5, 83.0, -2.5)
+[28Jun2025 19:18:39.007] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[28Jun2025 19:18:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliz joined the game
+[28Jun2025 19:18:39.349] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d8dca91d-a689-3dfa-a4a9-e76624af81c4
+[28Jun2025 19:18:39.426] [Server thread/INFO] [Jade/]: Syncing config to Aliz (d8dca91d-a689-3dfa-a4a9-e76624af81c4)
+[28Jun2025 19:18:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliz has made the advancement [Ice and Fire]
+[28Jun2025 19:18:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliz has reached the goal [Better Together]
+[28Jun2025 19:18:42.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[28Jun2025 19:18:59.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[28Jun2025 19:19:36.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aliz lost connection: Disconnected
+[28Jun2025 19:19:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aliz left the game
+[28Jun2025 19:19:36.886] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d8dca91d-a689-3dfa-a4a9-e76624af81c4
+[28Jun2025 19:19:37.013] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 19:20:46.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Disme A Dozen]
+[28Jun2025 19:20:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Sweet Dreams]
