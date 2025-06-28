@@ -1,0 +1,16 @@
+[19:05:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:05:57] [INIT] Loaded plugins:
+[19:05:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:05:57] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[19:05:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:05:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:05:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[19:05:57] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[19:05:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[19:05:57] [INIT] - com.almostreliable.morejs.Plugin
+[19:05:57] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[19:05:57] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[19:05:57] [INIT] - fr.lucreeper74.createmetallurgy.compat.kubejs.CreateMetallurgyKJS
+[19:05:58] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[19:05:58] [INFO] Loaded script startup_scripts:example.js in 0.174 s
+[19:05:58] [INFO] Loaded 1/1 KubeJS startup scripts in 0.833 s with 0 errors and 0 warnings
