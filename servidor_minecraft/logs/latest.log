@@ -20003,3 +20003,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Jun2025 19:29:08.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Close Quarters]
 [28Jun2025 19:36:42.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Diamonds!]
 [28Jun2025 19:39:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ajxss a server operator
+[28Jun2025 19:39:20.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Artist'/226, l='ServerLevel[world]', x=22.63, y=75.00, z=120.73] died, message: 'Artist was slain by Door Knight'
+[28Jun2025 19:39:21.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ajxss: Teleported ajxss to 67.500000, 78.500000, 218.500000]
+[28Jun2025 19:40:11.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2236, l='ServerLevel[world]', x=153.48, y=169.00, z=244.16] died, message: 'Weaponsmith hit the ground too hard'
+[28Jun2025 19:43:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Airship Village]
+[28Jun2025 19:43:50.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4809, l='ServerLevel[world]', x=120.52, y=74.00, z=227.49] died, message: 'Farmer hit the ground too hard'
+[28Jun2025 19:47:03.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Isn't It Iron Pick]
+[28Jun2025 19:47:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ajxss has made the advancement [Penteconter]
