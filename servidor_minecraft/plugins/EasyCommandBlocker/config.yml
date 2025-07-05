@@ -1,0 +1,26 @@
+tab:
+  default:
+    priority: 0
+    commands:
+      - /login
+      - /register
+      - /kits
+      - /kit
+  vip:
+    priority: 1
+    extends: default
+    commands:
+      - /home
+blocked_command_default_actions:
+  - 'message: &8[&b&lECB&8] &cNo tienes permiso para usar este comando'
+  - 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+use_commands_as_whitelist: true
+is_network: false
+update_notify: true
+commands:
+  - /login
+  - /register
+  - /kits
+  - /kit
+custom_commands_actions:
+
