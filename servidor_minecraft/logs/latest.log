@@ -222,3 +222,54 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:10:07] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set vip
 [21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
 [21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[21:10:10] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set default
+[21:10:10] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:10] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[21:10:15] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set owner
+[21:10:15] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[21:10:20] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set vip
+[21:10:20] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:20] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
+[21:10:47] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[21:10:47] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[21:10:50] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[21:10:50] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[21:12:32] [Server thread/INFO]: ajxss issued server command: /mv tp world
+[21:12:34] [Server thread/INFO]: ajxss lost connection: Disconnected
+[21:12:36] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:12:36] [Server thread/INFO]: ajxss[/127.183.195.212:51091] logged in with entity id 1708 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
+[21:12:43] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
+[21:12:45] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:12:45] [Server thread/INFO]: ajxss[/127.183.195.212:58885] logged in with entity id 1744 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
+[21:12:49] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
+[21:12:51] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:12:51] [Server thread/INFO]: ajxss[/127.183.195.212:43431] logged in with entity id 1749 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
+[21:12:53] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
+[21:12:57] [Server thread/INFO]: ajxss issued server command: /mv tp spawn
+[21:12:59] [Server thread/INFO]: ajxss issued server command: /gamemode adventure
+[21:12:59] [Server thread/INFO]: [ajxss: Set own game mode to Adventure Mode]
+[21:13:01] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[21:13:01] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[21:13:23] [Server thread/INFO]: ajxss lost connection: Disconnected
+[21:13:25] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:13:25] [Server thread/INFO]: ajxss[/127.183.195.212:38547] logged in with entity id 1779 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
+[21:13:29] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
+[21:14:26] [Server thread/INFO]: ajxss fell out of the world
+[21:15:09] [Server thread/INFO]: ajxss issued server command: /tab reload
+[21:15:09] [Server thread/INFO]: [TAB] Disabled in 2ms
+[21:15:09] [Server thread/INFO]: [TAB] Enabled in 30ms
+[21:17:37] [Server thread/INFO]: ajxss issued server command: /kits
+[21:17:48] [Server thread/INFO]: ajxss issued server command: /kits edit diamond
+[21:18:13] [Server thread/INFO]: ajxss issued server command: /kits delete diamond
+[21:18:17] [Server thread/INFO]: ajxss issued server command: /kits edit iron
+[21:18:54] [Server thread/INFO]: ajxss issued server command: /kits edit iron
+[21:18:57] [Server thread/INFO]: ajxss issued server command: /kits edit iron
+[21:19:04] [Server thread/INFO]: ajxss issued server command: /kits edit iron
+[21:19:17] [Server thread/INFO]: ajxss has made the advancement [Isn't It Iron Pick]
+[21:19:28] [Server thread/INFO]: ajxss issued server command: /kit
+[21:19:38] [Server thread/INFO]: ajxss issued server command: /kit
+[21:19:40] [Server thread/INFO]: ajxss issued server command: /kit edit
+[21:19:41] [Server thread/INFO]: ajxss issued server command: /kit edit iron
+[21:20:00] [Server thread/INFO]: ajxss issued server command: /kits
+[21:20:04] [Server thread/INFO]: ajxss issued server command: /kits

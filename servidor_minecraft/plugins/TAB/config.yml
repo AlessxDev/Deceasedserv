@@ -94,7 +94,7 @@ scoreboard:
         - '&#00FF83&l&m                                &m&#00FF83&l'
         - '&7%player%:'
         - ' &9☂ &fʀᴀɴɢᴏ: %luckperms_prefix%'
-        - ' &2&l💲 &fᴅɪɴᴇʀᴏ: &7$%vault_eco_balance_formatted%'
+        - ' &2&l💲 &fᴅɪɴᴇʀᴏ: &2$&a%vault_eco_balance_formatted%'
         - ' &6&l✨ &fᴄʟᴀɴ: &cᴘʀᴏxɪᴍᴀᴍᴇɴᴛᴇ!'
         - ''
         - ' &4⚔ &fᴋɪʟʟꜱ: &4%statistic_player_kills%'
