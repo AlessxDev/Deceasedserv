@@ -176,3 +176,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:59:05] [Server thread/INFO]: Done (20.845s)! For help, type "help"
 [14:59:05] [Server thread/INFO]: Timings Reset
 [14:59:05] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
+[20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] Checking for Updates ... 
+[20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] No new version available
