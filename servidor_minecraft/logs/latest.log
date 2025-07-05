@@ -178,3 +178,47 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [14:59:05] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
 [20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] Checking for Updates ... 
 [20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] No new version available
+[21:00:40] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:00:41] [Server thread/INFO]: ajxss[/127.183.195.212:35495] logged in with entity id 265 at ([world]-176.83157957291345, 120.94542376498953, 72.19889076192344)
+[21:00:49] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
+[21:00:52] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[21:00:52] [Server thread/INFO]: ajxss[/127.183.195.212:33949] logged in with entity id 404 at ([world]-176.83157957291345, 116.0, 72.19889076192344)
+[21:00:56] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
+[21:03:12] [Server thread/INFO]: ajxss issued server command: /mv info
+[21:03:15] [Server thread/INFO]: ajxss issued server command: /mv lis
+[21:03:16] [Server thread/INFO]: ajxss issued server command: /mv list
+[21:03:23] [Server thread/INFO]: ajxss issued server command: /mv import spawn
+[21:03:43] [Server thread/INFO]: ajxss issued server command: /mv import spawn normal
+[21:03:44] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[21:03:44] [Server thread/INFO]: Time elapsed: 19 ms
+[21:03:44] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) INFO: Loading holograms for world spawn
+[21:03:44] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
+[21:03:44] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[21:03:44] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+[21:03:44] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'spawn' is located at: spawn:0.50,1.00,0.50:0.00:0.00
+[21:03:50] [Server thread/INFO]: ajxss issued server command: /mv tp spawn
+[21:03:53] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[21:03:53] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[21:08:09] [Server thread/INFO]: ajxss issued server command: /weather clear
+[21:08:09] [Server thread/INFO]: [ajxss: Set the weather to clear]
+[21:08:15] [Server thread/INFO]: ajxss issued server command: /time set day
+[21:08:15] [Server thread/INFO]: [ajxss: Set the time to 1000]
+[21:09:00] [Server thread/INFO]: ajxss issued server command: /plugins
+[21:09:03] [Server thread/INFO]: ajxss issued server command: /version ProtectionStones
+[21:09:27] [Server thread/INFO]: ajxss issued server command: /gamemode survival
+[21:09:27] [Server thread/INFO]: [ajxss: Set own game mode to Survival Mode]
+[21:09:28] [Server thread/INFO]: ajxss issued server command: /gamemode adventure
+[21:09:28] [Server thread/INFO]: [ajxss: Set own game mode to Adventure Mode]
+[21:09:29] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[21:09:29] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[21:09:34] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[21:09:34] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[21:10:00] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set admin
+[21:10:00] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:00] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[21:10:04] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set mod
+[21:10:04] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:04] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[21:10:07] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set vip
+[21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
+[21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip

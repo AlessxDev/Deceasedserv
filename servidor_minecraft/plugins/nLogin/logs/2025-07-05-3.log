@@ -12,3 +12,6 @@
 [2025/07/05 14:58:54]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
 [2025/07/05 14:58:54]: §3[nLogin] [DEBUG] Loading database...
 [2025/07/05 14:58:54]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/07/05 21:00:49]: §3[nLogin] [DEBUG] The ajxss (127.183.195.212) player entered an incorrect password
+[2025/07/05 21:00:56]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ajxss', `unique_id` = 7bbd3b30b54336f9830b124ed5664ff5,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$kVTrGjUWoqOR88GpMkccFej10EQo/tj5fPwbiNKmzGRO9U7YsMjJK', `last_ip` = '127.183.195.212', `creation_date` = 2025-07-04 22:34:41.331, `last_seen` = 2025-07-05 21:00:56.362, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/07/05 21:00:56]: [nLogin] The user ajxss has successfully logged in.
