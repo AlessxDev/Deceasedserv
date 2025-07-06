@@ -265,3 +265,14 @@
 [18:12:23] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
 [18:12:55] [Server thread/INFO]: ajxss issued server command: /mv setspawn
 [18:12:59] [Server thread/INFO]: ajxss issued server command: /mv setspawn
+[18:17:30] [Server thread/INFO]: ajxss issued server command: /spawn
+[18:17:50] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[18:17:50] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[18:18:24] [Server thread/INFO]: ajxss issued server command: /npc move_here
+[18:18:26] [Server thread/INFO]: ajxss issued server command: /npc move_here survi
+[18:19:12] [Server thread/INFO]: ajxss issued server command: /npc move_here survi
+[18:19:53] [Server thread/INFO]: ajxss issued server command: /hologram create text survi
+[18:20:29] [Server thread/INFO]: ajxss issued server command: /discord
+[18:20:31] [Server thread/INFO]: ajxss issued server command: /discord
+[18:23:40] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &c&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
+[18:23:52] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &4&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ

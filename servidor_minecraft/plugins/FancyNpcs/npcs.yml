@@ -6,11 +6,11 @@ npcs:
     type: ZOMBIE
     location:
       world: spawn
-      x: -55.59379398379821
+      x: -55.47640398382452
       y: 2.0
-      z: 0.5828922403883898
-      yaw: 90.32813
-      pitch: 0.46003592
+      z: 0.4828064616702682
+      yaw: 90.089905
+      pitch: -1.7086366
     showInTab: false
     spawnEntity: true
     collidable: true
