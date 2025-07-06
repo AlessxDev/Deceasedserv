@@ -12,8 +12,11 @@
 regions:
     __global__:
         members: {}
-        flags: {build: deny, use: deny, block-break: deny, interact: deny, damage-animals: deny,
-            pvp: deny, block-place: deny, mob-spawning: deny}
+        flags: {natural-health-regen: allow, lava-fire: deny, use: deny, block-trampling: deny,
+            interact: deny, pvp: deny, block-place: deny, mob-spawning: deny, firework-damage: deny,
+            natural-hunger-drain: allow, sleep: deny, exp-drops: deny, build: deny,
+            fall-damage: deny, item-frame-rotation: deny, mob-damage: deny, block-break: deny,
+            damage-animals: deny}
         owners: {}
         type: global
         priority: 0

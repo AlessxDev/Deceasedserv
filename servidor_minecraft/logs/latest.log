@@ -342,3 +342,46 @@
 [18:33:42] [Server thread/INFO]: YDCKYT issued server command: /skin random
 [18:33:52] [Server thread/INFO]: YDCKYT issued server command: /skin random
 [18:34:01] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:34:10] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:34:12] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:34:13] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:36:09] [Server thread/INFO]: YDCKYT froze to death
+[18:36:18] [Server thread/INFO]: YDCKYT issued server command: /skin set https://www.minecraftskins.com/uploads/skins/2022/04/10/cerxh-20170338.png?v888
+[18:36:28] [Server thread/INFO]: ajxss issued server command: /tp YDCKYT
+[18:36:28] [Server thread/INFO]: [ajxss: Teleported ajxss to YDCKYT]
+[18:37:08] [Server thread/INFO]: ajxss issued server command: /rg info
+[18:37:10] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" __global__
+[18:38:28] [Server thread/INFO]: ajxss issued server command: /npc visibility_distance survi always_visible
+[18:39:11] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[18:39:11] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[18:41:11] [Server thread/INFO]: ajxss lost connection: Disconnected
+[18:41:14] [User Authenticator #3/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[18:41:15] [Server thread/INFO]: ajxss[/127.183.195.212:50819] logged in with entity id 84650 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
+[18:41:29] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ajxss has successfully logged in.
+[18:41:39] [Server thread/INFO]: YDCKYT fell from a high place
+[18:41:49] [Server thread/INFO]: ajxss issued server command: /rg info
+[18:41:52] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" __global__
+[18:41:57] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 1 __global__ sleep DENY
+[18:41:59] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 2 __global__
+[18:42:02] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ firework-damage DENY
+[18:42:03] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ block-trampling DENY
+[18:42:03] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ item-frame-rotation DENY
+[18:42:08] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ mob-damage DENY
+[18:42:09] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ exp-drops DENY
+[18:42:12] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 3 __global__
+[18:42:17] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 3 __global__ lava-fire DENY
+[18:42:18] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[18:42:19] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 4 __global__
+[18:42:29] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 5 __global__
+[18:42:31] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ fall-damage DENY
+[18:42:37] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-health-regen DENY
+[18:42:37] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-hunger-drain DENY
+[18:42:42] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-health-regen ALLOW
+[18:42:42] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-hunger-drain ALLOW
+[18:42:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[18:43:50] [Server thread/INFO]: ajxss issued server command: /lp user YDCKYT parent set mod
+[18:43:50] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ydckyt)
+[18:43:50] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
+[18:43:57] [Server thread/INFO]: ajxss issued server command: /lp user YDCKYT parent set owner
+[18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ydckyt)
+[18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
