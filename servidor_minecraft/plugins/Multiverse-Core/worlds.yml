@@ -44,12 +44,12 @@ spawn:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    monster:
+    animal:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    animal:
+    monster:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -86,18 +86,18 @@ world:
   seed: 2122219561910069167
   spawn-location:
     ==: MVSpawnLocation
-    x: 0.0
-    y: 79.0
-    z: 0.0
-    pitch: 0.0
-    yaw: 0.0
+    x: 0.719922373218111
+    y: 80.33129859303284
+    z: 0.544794479374641
+    pitch: 1.0186157
+    yaw: 89.83503
   spawning:
-    misc:
+    water_underground_creature:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    ambient:
+    misc:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -107,22 +107,22 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
+    ambient:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
     water_animal:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    monster:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    water_underground_creature:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    monster:
       spawn: true
       tick-rate: -1
       spawn-limit: -1

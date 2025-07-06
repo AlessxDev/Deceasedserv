@@ -25,11 +25,11 @@ npcs:
       variant: AUTO
       mirrorSkin: false
     actions:
-      ANY_CLICK:
-        '1':
-          action: console_command
-          value: mv tp {player} world
       LEFT_CLICK:
         '1':
           action: console_command
           value: /mv tp world
+      ANY_CLICK:
+        '1':
+          action: console_command
+          value: mv tp {player} world

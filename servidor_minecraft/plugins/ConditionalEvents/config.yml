@@ -103,7 +103,7 @@ Events:
   conditions:
   - '%command% == /discord'
   actions:
-      default:
-      - 'cancel_event: true'
-      - 'message: &aᴇʟ ᴅɪꜱᴄᴏʀᴅ ᴇꜱ:'
+    default:
+    - 'cancel_event: true'
+    - 'message: &aᴇʟ ᴅɪꜱᴄᴏʀᴅ ᴇꜱ:'
 
