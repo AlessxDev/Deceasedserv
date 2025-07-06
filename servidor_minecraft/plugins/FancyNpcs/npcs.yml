@@ -1,0 +1,35 @@
+npcs:
+  0f4baaf3-6c39-4b84-a922-8e9806d955b4:
+    name: survi
+    creator: 7bbd3b30-b543-36f9-830b-124ed5664ff5
+    displayName: '&#00ff6e&lS&#08e763&lU&#10cf59&lR&#18b74e&lV&#21a043&lI&#298838&lV&#31702e&lA&#395823&lL'
+    type: ZOMBIE
+    location:
+      world: spawn
+      x: -55.59379398379821
+      y: 2.0
+      z: 0.5828922403883898
+      yaw: 90.32813
+      pitch: 0.46003592
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    turnToPlayerDistance: -1
+    interactionCooldown: 0.0
+    scale: 1.0
+    visibility_distance: -1
+    skin:
+      variant: AUTO
+      mirrorSkin: false
+    actions:
+      ANY_CLICK:
+        '1':
+          action: console_command
+          value: mv tp {player} world
+      LEFT_CLICK:
+        '1':
+          action: console_command
+          value: /mv tp world

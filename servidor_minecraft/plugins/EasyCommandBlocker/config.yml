@@ -4,8 +4,13 @@ tab:
     commands:
       - /login
       - /register
-      - /kits
-      - /kit
+      - /yuuprote
+      - /discord
+      - /spawn
+      - /homes
+      - /home
+      - /sethome
+      - /delhome
   vip:
     priority: 1
     extends: default
@@ -20,7 +25,12 @@ update_notify: true
 commands:
   - /login
   - /register
-  - /kits
-  - /kit
+  - /yuuprote
+  - /spawn
+  - /discord
+  - /homes
+  - /home
+  - /sethome
+  - /delhome
 custom_commands_actions:
 

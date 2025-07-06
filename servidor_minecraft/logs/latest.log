@@ -1,275 +1,153 @@
-[14:58:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:58:44] [ServerMain/INFO]: Loaded 1174 recipes
-[14:58:44] [ServerMain/INFO]: Loaded 1271 advancements
-[14:58:44] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[14:58:44] [Server thread/INFO]: Loading properties
-[14:58:44] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[14:58:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:58:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:58:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[14:58:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[14:58:46] [Server thread/INFO]: Default game type: SURVIVAL
-[14:58:46] [Server thread/INFO]: Generating keypair
-[14:58:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:58:46] [Server thread/INFO]: Using epoll channel type
-[14:58:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:58:46] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[14:58:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/ProtectionStones-2.10.4.jar' in 'plugins'
-org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WorldGuard]. Please download and install these plugins to run 'ProtectionStones'.
-	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.4.jar:git-Paper-497]
-	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.20.4.jar:git-Paper-497]
-	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.4.jar:git-Paper-497]
-	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServer.java:507) ~[paper-1.20.4.jar:git-Paper-497]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:274) ~[paper-1.20.4.jar:git-Paper-497]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1131) ~[paper-1.20.4.jar:git-Paper-497]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319) ~[paper-1.20.4.jar:git-Paper-497]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[14:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loading 1 libraries... please wait
-[14:58:47] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/redis/clients/jedis/4.3.1/jedis-4.3.1.jar
-[14:58:47] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
-[14:58:47] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
-[14:58:47] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/json/json/20220320/json-20220320.jar
-[14:58:47] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
-[14:58:47] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[14:58:47] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[14:58:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[14:58:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[14:58:48] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[14:58:48] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[14:58:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.9
-[14:58:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[14:58:49] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[14:58:49] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[14:58:49] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[14:58:50] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[14:58:50] [Server thread/INFO]: [floodgate] Took 572ms to boot Floodgate
-[14:58:50] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[14:58:50] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[14:58:50] [Server thread/INFO]: [XConomy] Loading server plugin XConomy v2.26.3
-[14:58:50] [Server thread/INFO]: [Coins] Loading server plugin Coins v1.13.1
-[14:58:50] [Server thread/INFO]: [MOTD] Loading server plugin MOTD v2.3.11
-[14:58:50] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.21
-[14:58:50] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.6.0
-[14:58:50] [Server thread/INFO]: [FlyPlus] Loading server plugin FlyPlus v3.4
-[14:58:50] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.6.0
-[14:58:50] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
-[14:58:50] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
-[14:58:50] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.64.2
-[14:58:50] [Server thread/INFO]: [EasyCommandBlocker] Loading server plugin EasyCommandBlocker v1.14.2
-[14:58:50] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
-[14:58:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18afee25]
-[14:58:51] [Server thread/INFO]: [PlayerKits] Loading server plugin PlayerKits v2.27.1
-[14:58:51] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[14:58:52] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[14:58:52] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[14:58:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:58:52] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.9
-[14:58:52] [Server thread/INFO]:         __    
-[14:58:52] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.9
-[14:58:52] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[14:58:52] [Server thread/INFO]: 
-[14:58:52] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[14:58:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[14:58:53] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[14:58:53] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1103ms)
-[14:58:53] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[14:58:53] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[14:58:53] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[14:58:53] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[14:58:53] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[14:58:53] [Server thread/INFO]: [XConomy] Enabling XConomy v2.26.3
-[14:58:53] [Server thread/INFO]: [XConomy] UUID-Mode: Default
-[14:58:53] [Server thread/INFO]: [XConomy] Language: ENGLISH
-[14:58:53] [Server thread/INFO]: [XConomy] Saving method - SQLite
-[14:58:53] [Server thread/INFO]: [XConomy] SQLite successfully connected
-[14:58:53] [Server thread/INFO]: [XConomy] XConomy successfully enabled
-[14:58:53] [Server thread/INFO]: [XConomy] Found PlaceholderAPI
-[14:58:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: xconomy [2.26.3]
-[14:58:53] [Server thread/INFO]: [XConomy] PlaceholderAPI successfully hooked
-[14:58:53] [Server thread/INFO]: [XConomy] ===== YiC =====
-[14:58:53] [Server thread/INFO]: [MOTD] Enabling MOTD v2.3.11
-[14:58:53] [Server thread/INFO]: [MOTD] [Placeholder] PlaceholderAPI hooked.
-[14:58:53] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.21
-[14:58:53] [Folia Async Scheduler Thread #0/INFO]: [XConomy] Is the latest version
-[14:58:53] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.44s)
-[14:58:54] [Server thread/INFO]:           __             _       
-[14:58:54] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
-[14:58:54] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[14:58:54] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
-[14:58:54] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
-[14:58:54] [Server thread/INFO]:                   |___/            
-[14:58:54] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.21
-[14:58:54] [Server thread/INFO]:  
-[14:58:54] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
-[14:58:54] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[14:58:54] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[14:58:54] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[14:58:54] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[14:58:54] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
-[14:58:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:58:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:58:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:58:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:58:55] [Server thread/INFO]: Preparing level "world"
-[14:58:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:58:56] [Server thread/INFO]: Time elapsed: 239 ms
-[14:58:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:58:56] [Server thread/INFO]: Time elapsed: 145 ms
-[14:58:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:58:56] [Server thread/INFO]: Time elapsed: 57 ms
-[14:58:56] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[14:58:56] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[14:58:56] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[14:58:57] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[14:58:57] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[14:58:57] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[14:58:58] [Server thread/INFO]: [TAB] Enabled in 416ms
-[14:58:58] [Server thread/INFO]: [Coins] Enabling Coins v1.13.1
-[14:58:58] [Server thread/INFO]: [Coins] Vault is used as the economy provider.
-[14:58:58] [Server thread/INFO]: [Coins] Initialized in 119ms.
-[14:58:58] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.6.0
-[14:58:58] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[14:58:58] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[14:58:58] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[14:58:58] [Server thread/INFO]: [FlyPlus] Enabling FlyPlus v3.4
-[14:58:58] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.6.0
-[14:58:58] [Server thread/INFO]: [FlyPlus] Successfully hooked into LuckPerms!
-[14:58:58] [Server thread/INFO]: [FlyPlus] Enabled!
-[14:58:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
-[14:59:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
-[14:59:00] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[14:59:00] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[14:59:00] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[14:59:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
-[14:59:00] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.64.2
-[14:59:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.64.2]
-[14:59:00] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.64.2
-[14:59:00] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[14:59:00] [Server thread/INFO]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.14.2
-[14:59:00] [Server thread/INFO]: [EasyCommandBlocker] Has been enabled! Version: 1.14.2
-[14:59:00] [Server thread/INFO]: [EasyCommandBlocker] Thanks for using my plugin!   ~Ajneb97
-[14:59:00] [Server thread/INFO]: [PlayerKits] Enabling PlayerKits v2.27.1
-[14:59:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [2.27.1]
-[14:59:00] [Server thread/INFO]: [PlayerKits] Has been enabled! Version: 2.27.1
-[14:59:00] [Server thread/INFO]: [PlayerKits] Thanks for using my plugin!  ~Ajneb97
-[14:59:00] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[14:59:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[14:59:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:59:01] [Server thread/INFO]: [Geyser-Spigot] 
-[14:59:01] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b872 (git-master-74456ee)
-[14:59:01] [Server thread/INFO]: [Geyser-Spigot] 
-[14:59:01] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[14:59:05] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 51001
-[14:59:05] [Server thread/INFO]: [Geyser-Spigot] Done (3.844s)! Run /geyser help for help!
-[14:59:05] [Server thread/INFO]: Running delayed init tasks
-[14:59:05] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[14:59:05] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
-[14:59:05] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[14:59:05] [Server thread/INFO]: 6 placeholder hook(s) registered!
-[14:59:05] [Server thread/INFO]: Done (20.845s)! For help, type "help"
-[14:59:05] [Server thread/INFO]: Timings Reset
-[14:59:05] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
-[20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] Checking for Updates ... 
-[20:59:05] [Craft Scheduler Thread - 1331 - Vault/INFO]: [Vault] No new version available
-[21:00:40] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:00:41] [Server thread/INFO]: ajxss[/127.183.195.212:35495] logged in with entity id 265 at ([world]-176.83157957291345, 120.94542376498953, 72.19889076192344)
-[21:00:49] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
-[21:00:52] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:00:52] [Server thread/INFO]: ajxss[/127.183.195.212:33949] logged in with entity id 404 at ([world]-176.83157957291345, 116.0, 72.19889076192344)
-[21:00:56] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
-[21:03:12] [Server thread/INFO]: ajxss issued server command: /mv info
-[21:03:15] [Server thread/INFO]: ajxss issued server command: /mv lis
-[21:03:16] [Server thread/INFO]: ajxss issued server command: /mv list
-[21:03:23] [Server thread/INFO]: ajxss issued server command: /mv import spawn
-[21:03:43] [Server thread/INFO]: ajxss issued server command: /mv import spawn normal
-[21:03:44] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[21:03:44] [Server thread/INFO]: Time elapsed: 19 ms
-[21:03:44] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) INFO: Loading holograms for world spawn
-[21:03:44] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[21:03:44] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[21:03:44] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
-[21:03:44] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'spawn' is located at: spawn:0.50,1.00,0.50:0.00:0.00
-[21:03:50] [Server thread/INFO]: ajxss issued server command: /mv tp spawn
-[21:03:53] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[21:03:53] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[21:08:09] [Server thread/INFO]: ajxss issued server command: /weather clear
-[21:08:09] [Server thread/INFO]: [ajxss: Set the weather to clear]
-[21:08:15] [Server thread/INFO]: ajxss issued server command: /time set day
-[21:08:15] [Server thread/INFO]: [ajxss: Set the time to 1000]
-[21:09:00] [Server thread/INFO]: ajxss issued server command: /plugins
-[21:09:03] [Server thread/INFO]: ajxss issued server command: /version ProtectionStones
-[21:09:27] [Server thread/INFO]: ajxss issued server command: /gamemode survival
-[21:09:27] [Server thread/INFO]: [ajxss: Set own game mode to Survival Mode]
-[21:09:28] [Server thread/INFO]: ajxss issued server command: /gamemode adventure
-[21:09:28] [Server thread/INFO]: [ajxss: Set own game mode to Adventure Mode]
-[21:09:29] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
-[21:09:29] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
-[21:09:34] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[21:09:34] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[21:10:00] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set admin
-[21:10:00] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:00] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
-[21:10:04] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set mod
-[21:10:04] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:04] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
-[21:10:07] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set vip
-[21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
-[21:10:10] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set default
-[21:10:10] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:10] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
-[21:10:15] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set owner
-[21:10:15] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
-[21:10:20] [Server thread/INFO]: ajxss issued server command: /lp user ajxss parent set vip
-[21:10:20] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ajxss)
-[21:10:20] [luckperms-command-executor/INFO]: [LP] LOG > parent set vip
-[21:10:47] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
-[21:10:47] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
-[21:10:50] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[21:10:50] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[21:12:32] [Server thread/INFO]: ajxss issued server command: /mv tp world
-[21:12:34] [Server thread/INFO]: ajxss lost connection: Disconnected
-[21:12:36] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:12:36] [Server thread/INFO]: ajxss[/127.183.195.212:51091] logged in with entity id 1708 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
-[21:12:43] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
-[21:12:45] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:12:45] [Server thread/INFO]: ajxss[/127.183.195.212:58885] logged in with entity id 1744 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
-[21:12:49] [Server thread/INFO]: ajxss lost connection: You entered the incorrect password.
-[21:12:51] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:12:51] [Server thread/INFO]: ajxss[/127.183.195.212:43431] logged in with entity id 1749 at ([world]-2.3538733460699635, 81.0, 6.056196092670911)
-[21:12:53] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
-[21:12:57] [Server thread/INFO]: ajxss issued server command: /mv tp spawn
-[21:12:59] [Server thread/INFO]: ajxss issued server command: /gamemode adventure
-[21:12:59] [Server thread/INFO]: [ajxss: Set own game mode to Adventure Mode]
-[21:13:01] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[21:13:01] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[21:13:23] [Server thread/INFO]: ajxss lost connection: Disconnected
-[21:13:25] [User Authenticator #1/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[21:13:25] [Server thread/INFO]: ajxss[/127.183.195.212:38547] logged in with entity id 1779 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
-[21:13:29] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
-[21:14:26] [Server thread/INFO]: ajxss fell out of the world
-[21:15:09] [Server thread/INFO]: ajxss issued server command: /tab reload
-[21:15:09] [Server thread/INFO]: [TAB] Disabled in 2ms
-[21:15:09] [Server thread/INFO]: [TAB] Enabled in 30ms
-[21:17:37] [Server thread/INFO]: ajxss issued server command: /kits
-[21:17:48] [Server thread/INFO]: ajxss issued server command: /kits edit diamond
-[21:18:13] [Server thread/INFO]: ajxss issued server command: /kits delete diamond
-[21:18:17] [Server thread/INFO]: ajxss issued server command: /kits edit iron
-[21:18:54] [Server thread/INFO]: ajxss issued server command: /kits edit iron
-[21:18:57] [Server thread/INFO]: ajxss issued server command: /kits edit iron
-[21:19:04] [Server thread/INFO]: ajxss issued server command: /kits edit iron
-[21:19:17] [Server thread/INFO]: ajxss has made the advancement [Isn't It Iron Pick]
-[21:19:28] [Server thread/INFO]: ajxss issued server command: /kit
-[21:19:38] [Server thread/INFO]: ajxss issued server command: /kit
-[21:19:40] [Server thread/INFO]: ajxss issued server command: /kit edit
-[21:19:41] [Server thread/INFO]: ajxss issued server command: /kit edit iron
-[21:20:00] [Server thread/INFO]: ajxss issued server command: /kits
-[21:20:04] [Server thread/INFO]: ajxss issued server command: /kits
+[00:00:31] [Server thread/INFO]: ajxss issued server command: /voidteleport setspawn
+[00:01:04] [Server thread/INFO]: ajxss issued server command: /vt reload
+[00:02:01] [Server thread/INFO]: ajxss issued server command: /uh reload
+[00:02:09] [Server thread/INFO]: ajxss issued server command: /kill
+[00:02:09] [Server thread/INFO]: ajxss was killed
+[00:02:09] [Server thread/INFO]: [ajxss: Killed ajxss]
+[00:02:15] [Server thread/INFO]: ajxss issued server command: /sethome asd
+[00:02:17] [Server thread/INFO]: ajxss issued server command: /kill
+[00:02:17] [Server thread/INFO]: ajxss was killed
+[00:02:17] [Server thread/INFO]: [ajxss: Killed ajxss]
+[00:02:26] [Server thread/INFO]: ajxss issued server command: /delhome asd
+[00:02:28] [Server thread/INFO]: ajxss issued server command: /delhome ajxss
+[00:03:03] [Server thread/INFO]: ajxss issued server command: /lp group owner permission set *
+[00:03:03] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (owner)
+[00:03:03] [luckperms-command-executor/INFO]: [LP] LOG > permission set * true
+[00:03:06] [Server thread/INFO]: ajxss issued server command: /lp group owner permission set .*
+[00:03:06] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (owner)
+[00:03:06] [luckperms-command-executor/INFO]: [LP] LOG > permission set .* true
+[00:03:08] [Server thread/INFO]: ajxss issued server command: /lp group owner permission set op
+[00:03:08] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (owner)
+[00:03:08] [luckperms-command-executor/INFO]: [LP] LOG > permission set op true
+[00:03:18] [Server thread/INFO]: ajxss issued server command: /lp group owner permission set minecraft
+[00:03:18] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (owner)
+[00:03:18] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft true
+[00:03:21] [Server thread/INFO]: ajxss issued server command: /lp group owner permission set bukkit
+[00:03:21] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (owner)
+[00:03:21] [luckperms-command-executor/INFO]: [LP] LOG > permission set bukkit true
+[00:04:05] [User Authenticator #1/INFO]: UUID of player zAlexc_ is 99237823-2eda-3f42-a2f6-6e14760fa4c6
+[00:04:06] [Server thread/INFO]: zAlexc_[/127.183.195.212:37071] logged in with entity id 19087 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[00:04:08] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user zAlexc_ has successfully logged in.
+[00:04:10] [Server thread/INFO]: zAlexc_ issued server command: /spawn
+[00:04:31] [Server thread/INFO]: ajxss issued server command: /ps give 8 zAlexc_
+[00:05:57] [Server thread/INFO]: ajxss issued server command: /lp group default permission set protectionstones.create
+[00:05:57] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:05:57] [luckperms-command-executor/INFO]: [LP] LOG > permission set protectionstones.create true
+[00:05:59] [Server thread/INFO]: ajxss issued server command: /lp group default permission set protectionstones.destroy
+[00:05:59] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:05:59] [luckperms-command-executor/INFO]: [LP] LOG > permission set protectionstones.destroy true
+[00:06:22] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[00:07:51] [Server thread/INFO]: ajxss issued server command: /discord
+[00:07:54] [Server thread/INFO]: ajxss issued server command: /discordasd
+[00:08:28] [Server thread/INFO]: ajxss issued server command: /lp group default permission set protectionstones.setparent
+[00:08:28] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:08:28] [luckperms-command-executor/INFO]: [LP] LOG > permission set protectionstones.setparent true
+[00:10:52] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[00:12:15] [ForkJoinPool.commonPool-worker-5/INFO]: Testing server connection to 147.185.221.29:51001 with port: 51001 now. Please wait...
+[00:12:15] [ForkJoinPool.commonPool-worker-5/INFO]: Your server is likely unreachable from outside the network!
+[00:12:15] [ForkJoinPool.commonPool-worker-5/INFO]: Got the error message: 147.185.221.29:51001: invalid IPv6 address literal
+[00:12:15] [ForkJoinPool.commonPool-worker-5/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/
+[00:12:15] [ForkJoinPool.commonPool-worker-5/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc
+[00:12:45] [ForkJoinPool.commonPool-worker-5/INFO]: Testing server connection to 147.185.221.29:25565 with port: 51001 now. Please wait...
+[00:12:45] [ForkJoinPool.commonPool-worker-5/INFO]: Your server is likely unreachable from outside the network!
+[00:12:45] [ForkJoinPool.commonPool-worker-5/INFO]: Got the error message: 147.185.221.29:25565: invalid IPv6 address literal
+[00:12:45] [ForkJoinPool.commonPool-worker-5/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/
+[00:12:45] [ForkJoinPool.commonPool-worker-5/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc
+[00:13:42] [ForkJoinPool.commonPool-worker-5/INFO]: Testing server connection to 147.185.221.29:19132 with port: 51001 now. Please wait...
+[00:13:42] [ForkJoinPool.commonPool-worker-5/INFO]: Your server is likely unreachable from outside the network!
+[00:13:42] [ForkJoinPool.commonPool-worker-5/INFO]: Got the error message: 147.185.221.29:19132: invalid IPv6 address literal
+[00:13:42] [ForkJoinPool.commonPool-worker-5/INFO]: If you still face issues, check the setup guide for instructions: https://wiki.geysermc.org/geyser/setup/
+[00:13:42] [ForkJoinPool.commonPool-worker-5/INFO]: If that does not work, see https://wiki.geysermc.org/geyser/fixing-unable-to-connect-to-world/, or contact us on Discord: https://discord.gg/geysermc
+[00:14:41] [Server thread/INFO]: ajxss issued server command: /lp group default permission set ultimatehomes.sethome
+[00:14:41] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:14:41] [luckperms-command-executor/INFO]: [LP] LOG > permission set ultimatehomes.sethome true
+[00:14:52] [Server thread/INFO]: ajxss issued server command: /lp group default permission set ultimatehomes.hogar
+[00:14:52] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:14:52] [luckperms-command-executor/INFO]: [LP] LOG > permission set ultimatehomes.hogar true
+[00:15:14] [Server thread/INFO]: ajxss issued server command: /lp group default permission set ultimatehomes.home
+[00:15:14] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:15:14] [luckperms-command-executor/INFO]: [LP] LOG > permission set ultimatehomes.home true
+[00:15:15] [Server thread/INFO]: ajxss issued server command: /lp group default permission set ultimatehomes.homes
+[00:15:15] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:15:15] [luckperms-command-executor/INFO]: [LP] LOG > permission set ultimatehomes.homes true
+[00:15:21] [Server thread/INFO]: ajxss issued server command: /lp group default permission set ultimatehomes.delhome
+[00:15:21] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [G] (default)
+[00:15:21] [luckperms-command-executor/INFO]: [LP] LOG > permission set ultimatehomes.delhome true
+[00:16:05] [Server thread/INFO]: Stopping the server
+[00:16:05] [Server thread/INFO]: Stopping server
+[00:16:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[00:16:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:16:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:16:05] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v5.5
+[00:16:05] [Server thread/INFO]: [SetSpawn] Disabled!
+[00:16:05] [Server thread/INFO]: [EasyCommandBlocker] Disabling EasyCommandBlocker v1.14.2
+[00:16:05] [Server thread/INFO]: [EasyCommandBlocker] Has been disabled! Version: 1.14.2
+[00:16:05] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.64.2
+[00:16:05] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.64.2
+[00:16:05] [Server thread/INFO]: [VoidTeleport] Disabling VoidTeleport v2.4.5
+[00:16:05] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.4
+[00:16:05] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[00:16:05] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
+[00:16:05] [Server thread/INFO]: [FlyPlus] Disabling FlyPlus v3.4
+[00:16:05] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.6.0
+[00:16:05] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully disabled FancyHolograms version 2.6.0
+[00:16:05] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.21
+[00:16:05] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[00:16:05] [Server thread/INFO]: [MOTD] Disabling MOTD v2.3.11
+[00:16:05] [Server thread/INFO]: [Coins] Disabling Coins v1.13.1
+[00:16:05] [Server thread/INFO]: [XConomy] Disabling XConomy v2.26.3
+[00:16:05] [Server thread/INFO]: [XConomy] XConomy successfully disabled
+[00:16:05] [Server thread/INFO]: [TAB] Disabling TAB v5.2.4
+[00:16:05] [Server thread/INFO]: [TAB] Disabled in 2ms
+[00:16:05] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.1.0
+[00:16:05] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.6.0
+[00:16:05] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs has been disabled.
+[00:16:05] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[00:16:05] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[00:16:05] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[00:16:05] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[00:16:05] [WebSocketConnectReadThread-157/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:16:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[00:16:05] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[00:16:05] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:16:05] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[00:16:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.9
+[00:16:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:16:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:16:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:16:05] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[00:16:05] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:16:05] [Server thread/INFO]: Saving players
+[00:16:05] [Server thread/INFO]: ajxss lost connection: Server closed
+[00:16:05] [Server thread/INFO]: ajxss left the game
+[00:16:05] [Server thread/INFO]: zAlexc_ lost connection: Server closed
+[00:16:05] [Server thread/INFO]: zAlexc_ left the game
+[00:16:05] [Server thread/INFO]: Saving worlds
+[00:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 92 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[00:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'spawn'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'spawn'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'spawn'
+[00:16:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'spawn' in 0.00s
+[00:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[00:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:16:05] [Server thread/INFO]: Flushing Chunk IO
+[00:16:05] [Server thread/INFO]: Closing Thread Pool
+[00:16:05] [Server thread/INFO]: Closing Server

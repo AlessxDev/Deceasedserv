@@ -1,0 +1,18 @@
+[2025/07/05 22:26:37]: §9          __             _       
+[2025/07/05 22:26:37]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/07/05 22:26:37]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/07/05 22:26:37]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/07/05 22:26:37]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/07/05 22:26:37]: §9                  |___/            
+[2025/07/05 22:26:37]: §9 By: www.nickuc.com - V 10.4.21
+[2025/07/05 22:26:37]: §9 
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] All settings were loaded in 70 ms.
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] All plugin messages were loaded in 53 ms (languageByClient=false).
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] All proxy settings were loaded in 1 ms.
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] Loading database...
+[2025/07/05 22:26:37]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/07/05 22:27:06]: §3[nLogin] [DEBUG] The ajxss (127.183.195.212) player entered an incorrect password
+[2025/07/05 22:27:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ajxss', `unique_id` = 7bbd3b30b54336f9830b124ed5664ff5,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$kVTrGjUWoqOR88GpMkccFej10EQo/tj5fPwbiNKmzGRO9U7YsMjJK', `last_ip` = '127.183.195.212', `creation_date` = 2025-07-04 22:34:41.331, `last_seen` = 2025-07-05 22:27:15.085, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/07/05 22:27:15]: [nLogin] The user ajxss has successfully logged in.
+[2025/07/05 22:38:26]: [nLogin] Successful plugin core shutdown (took 0.00s)
