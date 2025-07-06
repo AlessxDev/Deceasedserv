@@ -276,3 +276,69 @@
 [18:20:31] [Server thread/INFO]: ajxss issued server command: /discord
 [18:23:40] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &c&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
 [18:23:52] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &4&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
+[18:24:28] [User Authenticator #1/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
+[18:24:30] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &4&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ
+[18:24:32] [Server thread/INFO]: YDCKYT[/127.78.110.85:35267] logged in with entity id 34240 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[18:24:47] [Server thread/INFO]: ajxss issued server command: /hologram edit survi addline &4&lᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
+[18:25:01] [Server thread/INFO]: ajxss issued server command: /holo edit survi background transparent
+[18:25:10] [Server thread/INFO]: ajxss issued server command: /holo edit survi brightness block
+[18:25:12] [Server thread/INFO]: ajxss issued server command: /holo edit survi brightness block 15
+[18:25:16] [Server thread/INFO]: YDCKYT lost connection: You took too long to register.
+[18:25:20] [User Authenticator #1/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
+[18:25:22] [Server thread/INFO]: YDCKYT[/127.78.110.85:37583] logged in with entity id 37674 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[18:25:30] [Server thread/INFO]: ajxss issued server command: /holo edit survi center
+[18:25:40] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user YDCKYT has successfully registered.
+[18:25:44] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 12
+[18:25:48] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 10
+[18:25:50] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 8
+[18:25:52] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 6
+[18:25:57] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 4
+[18:26:12] [Server thread/INFO]: YDCKYT issued server command: /sethome 123
+[18:26:12] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibilityDistance 16
+[18:26:21] [Server thread/INFO]: YDCKYT issued server command: /home
+[18:26:25] [Server thread/INFO]: YDCKYT issued server command: /home 123
+[18:26:26] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibility ALL
+[18:26:30] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibility 15
+[18:26:33] [Async Chat Thread - #0/INFO]: [Not Secure] <YDCKYT> oe
+[18:26:39] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibilityDistance 64
+[18:26:40] [Server thread/INFO]: YDCKYT issued server command: /home 123
+[18:26:46] [Server thread/INFO]: YDCKYT issued server command: /home 123
+[18:26:54] [Server thread/INFO]: YDCKYT issued server command: /home 123
+[18:27:18] [Async Chat Thread - #0/INFO]: [Not Secure] <ajxss> ./yuuprote
+[18:27:21] [Server thread/INFO]: YDCKYT issued server command: /yuuprote
+[18:27:21] [Server thread/INFO]: Gave 8 to YDCKYT.
+[18:27:39] [Server thread/INFO]: YDCKYT issued server command: /yuuprote
+[18:27:45] [Server thread/INFO]: Teleported YDCKYT to w:world.
+[18:27:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[18:27:52] [Server thread/INFO]: Teleported ajxss to w:world.
+[18:28:47] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[18:28:47] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[18:28:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[18:28:56] [Server thread/INFO]: ajxss issued server command: /discord
+[18:29:02] [Server thread/INFO]: YDCKYT issued server command: /discord
+[18:29:07] [Server thread/INFO]: YDCKYT issued server command: /delhome 123
+[18:29:49] [Server thread/INFO]: YDCKYT issued server command: /skin set
+[18:29:52] [Server thread/INFO]: ajxss issued server command: /ecb reload
+[18:29:55] [Server thread/INFO]: YDCKYT lost connection: Disconnected
+[18:30:01] [User Authenticator #2/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
+[18:30:03] [Server thread/INFO]: YDCKYT[/127.78.110.85:60817] logged in with entity id 48232 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[18:30:18] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user YDCKYT has successfully logged in.
+[18:30:33] [Server thread/INFO]: YDCKYT was slain by Zombie
+[18:31:17] [Server thread/INFO]: YDCKYT issued server command: /skin set YDCKYT
+[18:31:51] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:31:59] [Server thread/INFO]: YDCKYT issued server command: /spawn
+[18:32:02] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:32:05] [Server thread/INFO]: YDCKYT issued server command: /spawn
+[18:32:16] [Server thread/INFO]: YDCKYT issued server command: /spawn
+[18:32:25] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:32:27] [Server thread/INFO]: YDCKYT issued server command: /spawn
+[18:32:34] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:32:36] [Server thread/INFO]: ajxss issued server command: /ce reload
+[18:32:38] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:32:39] [Server thread/INFO]: ajxss issued server command: /discord
+[18:33:10] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:33:15] [Server thread/INFO]: YDCKYT issued server command: /spawn
+[18:33:23] [Server thread/INFO]: Teleported YDCKYT to w:world.
+[18:33:42] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:33:52] [Server thread/INFO]: YDCKYT issued server command: /skin random
+[18:34:01] [Server thread/INFO]: YDCKYT issued server command: /skin random

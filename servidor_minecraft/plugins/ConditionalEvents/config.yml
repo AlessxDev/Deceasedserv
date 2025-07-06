@@ -105,5 +105,5 @@ Events:
   actions:
     default:
     - 'cancel_event: true'
-    - 'message: &aᴇʟ ᴅɪꜱᴄᴏʀᴅ ᴇꜱ:'
+    - "message: &aᴇʟ ᴅɪꜱᴄᴏʀᴅ ᴇꜱ:"
 

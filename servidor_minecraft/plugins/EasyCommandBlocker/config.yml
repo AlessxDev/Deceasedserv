@@ -11,6 +11,7 @@ tab:
       - /home
       - /sethome
       - /delhome
+      - /skin
   vip:
     priority: 1
     extends: default
@@ -32,5 +33,6 @@ commands:
   - /home
   - /sethome
   - /delhome
+  - /skin 
 custom_commands_actions:
 

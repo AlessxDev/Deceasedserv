@@ -1,0 +1,5 @@
+name: YDCKYT
+events:
+  prote:
+    one_time: true
+    cooldown: 0
