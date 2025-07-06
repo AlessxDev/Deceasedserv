@@ -20,7 +20,7 @@ npcs:
     turnToPlayerDistance: -1
     interactionCooldown: 0.0
     scale: 1.0
-    visibility_distance: -1
+    visibility_distance: 2147483647
     skin:
       variant: AUTO
       mirrorSkin: false

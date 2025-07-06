@@ -385,3 +385,95 @@
 [18:43:57] [Server thread/INFO]: ajxss issued server command: /lp user YDCKYT parent set owner
 [18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ydckyt)
 [18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
+[18:44:23] [Server thread/INFO]: YDCKYT issued server command: /tps
+[18:44:31] [Server thread/INFO]: YDCKYT issued server command: /tps
+[18:44:32] [Server thread/INFO]: YDCKYT issued server command: /tps
+[18:44:32] [Server thread/INFO]: ajxss issued server command: /tps
+[18:44:33] [Server thread/INFO]: YDCKYT issued server command: /tps
+[18:44:34] [Server thread/INFO]: YDCKYT issued server command: /tps
+[18:46:09] [Server thread/INFO]: YDCKYT issued server command: /kill
+[18:46:09] [Server thread/INFO]: YDCKYT was killed
+[18:46:10] [Server thread/INFO]: [YDCKYT: Killed YDCKYT]
+[18:46:17] [Server thread/INFO]: YDCKYT issued server command: /flyplus:fly
+[18:46:42] [Server thread/INFO]: ajxss issued server command: /tp ajxss YDCKYT
+[18:46:42] [Server thread/INFO]: [ajxss: Teleported ajxss to YDCKYT]
+[18:47:37] [Server thread/INFO]: ajxss issued server command: /stop
+[18:47:37] [Server thread/INFO]: [ajxss: Stopping the server]
+[18:47:37] [Server thread/INFO]: Stopping server
+[18:47:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.5
+[18:47:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[18:47:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:47:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:47:38] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v5.5
+[18:47:38] [Server thread/INFO]: [SetSpawn] Disabled!
+[18:47:38] [Server thread/INFO]: [EasyCommandBlocker] Disabling EasyCommandBlocker v1.14.2
+[18:47:38] [Server thread/INFO]: [EasyCommandBlocker] Has been disabled! Version: 1.14.2
+[18:47:38] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.64.2
+[18:47:38] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.64.2
+[18:47:38] [Server thread/INFO]: [VoidTeleport] Disabling VoidTeleport v2.4.5
+[18:47:38] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.4
+[18:47:38] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[18:47:38] [Server thread/INFO]: [FlyPlus] Disabling FlyPlus v3.4
+[18:47:38] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.6.0
+[18:47:38] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully disabled FancyHolograms version 2.6.0
+[18:47:38] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.21
+[18:47:38] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
+[18:47:38] [Server thread/INFO]: [MOTD] Disabling MOTD v2.3.11
+[18:47:38] [Server thread/INFO]: [Coins] Disabling Coins v1.13.1
+[18:47:38] [Server thread/INFO]: [XConomy] Disabling XConomy v2.26.3
+[18:47:38] [Server thread/INFO]: [XConomy] XConomy successfully disabled
+[18:47:38] [Server thread/INFO]: [TAB] Disabling TAB v5.2.4
+[18:47:38] [Server thread/INFO]: [TAB] Disabled in 1ms
+[18:47:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
+[18:47:38] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.1.0
+[18:47:38] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.6.0
+[18:47:38] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs has been disabled.
+[18:47:38] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[18:47:38] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[18:47:38] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[18:47:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[18:47:38] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[18:47:38] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
+[18:47:38] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18:47:38] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[18:47:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.9
+[18:47:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:47:38] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:47:38] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:47:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
+[18:47:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:47:38] [Server thread/INFO]: Saving players
+[18:47:38] [Server thread/INFO]: ajxss lost connection: Server closed
+[18:47:38] [WebSocketConnectReadThread-164/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:47:38] [Server thread/INFO]: ajxss left the game
+[18:47:38] [Server thread/INFO]: YDCKYT lost connection: Server closed
+[18:47:38] [Server thread/INFO]: YDCKYT left the game
+[18:47:38] [Server thread/INFO]: Saving worlds
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 521 block chunks, 181 entity chunks, 0 poi chunks in world 'world' in 0.26s
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'spawn'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'spawn'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'spawn'
+[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 71 block chunks, 70 entity chunks, 0 poi chunks in world 'spawn' in 0.02s
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:47:38] [Server thread/INFO]: Flushing Chunk IO
+[18:47:38] [Server thread/INFO]: Closing Thread Pool
+[18:47:38] [Server thread/INFO]: Closing Server

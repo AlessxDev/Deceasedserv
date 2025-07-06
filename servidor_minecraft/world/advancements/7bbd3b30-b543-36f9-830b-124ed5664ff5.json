@@ -453,15 +453,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-07-06 18:15:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-06 18:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-06 18:15:26 +0000"
     },
     "done": true
   },
