@@ -272,3 +272,31 @@
 [00:40:08] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
 [00:40:09] [Server thread/INFO]: ajxss[/127.149.205.21:47745] logged in with entity id 117 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
 [00:40:16] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ajxss has successfully logged in.
+[00:45:29] [Server thread/INFO]: ajxss has made the advancement [A Seedy Place]
+[00:45:57] [Server thread/INFO]: ajxss has completed the challenge [Serious Dedication]
+[00:47:09] [User Authenticator #1/INFO]: UUID of player SR_Senna1990 is 7c3bf146-2566-316c-9f6e-3ef3642cfd29
+[00:47:10] [Server thread/INFO]: SR_Senna1990[/127.201.126.209:57861] logged in with entity id 27773 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[00:47:38] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user SR_Senna1990 has successfully registered.
+[00:48:16] [Server thread/INFO]: Teleported SR_Senna1990 to w:world.
+[00:48:21] [Server thread/INFO]: Teleported ajxss to w:world.
+[00:48:24] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[00:48:24] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:49:09] [Server thread/INFO]: [CombatLogX] Using non-NMS Paper EntityHandler
+[00:49:21] [Server thread/INFO]: SR_Senna1990 was doomed to fall by Zombie
+[00:49:26] [Server thread/INFO]: Teleported SR_Senna1990 to w:world.
+[00:50:16] [Server thread/INFO]: SR_Senna1990 has made the advancement [Monster Hunter]
+[00:51:12] [Server thread/INFO]: SR_Senna1990 has made the advancement [Stone Age]
+[00:51:39] [Server thread/INFO]: SR_Senna1990 has made the advancement [Getting an Upgrade]
+[00:52:10] [Async Chat Thread - #0/INFO]: [Not Secure] <ajxss> ./yuuprote
+[00:52:17] [Server thread/INFO]: SR_Senna1990 was shot by Skeleton
+[00:52:20] [Async Chat Thread - #0/INFO]: [Not Secure] <ajxss> XD
+[00:52:23] [Server thread/INFO]: Teleported SR_Senna1990 to w:world.
+[00:53:06] [Async Chat Thread - #1/INFO]: [Not Secure] <ajxss> ./yuuprote
+[00:53:12] [Server thread/INFO]: SR_Senna1990 issued server command: /yuuprote
+[00:53:12] [Server thread/INFO]: Gave 8 to SR_Senna1990.
+[00:53:20] [Server thread/INFO]: ajxss issued server command: /tp SR_Senna1990
+[00:53:20] [Server thread/INFO]: [ajxss: Teleported ajxss to SR_Senna1990]
+[00:53:30] [Server thread/INFO]: ajxss issued server command: /yuuprote
+[00:54:00] [Server thread/INFO]: ajxss issued server command: /spawn
+[00:54:05] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[00:54:05] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
