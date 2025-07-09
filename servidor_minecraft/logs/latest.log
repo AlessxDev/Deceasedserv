@@ -1,213 +1,219 @@
-[18:04:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:04:03] [ServerMain/INFO]: Loaded 1174 recipes
-[18:04:03] [ServerMain/INFO]: Loaded 1271 advancements
-[18:04:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:04:03] [Server thread/INFO]: Loading properties
-[18:04:03] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[18:04:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:04:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:04:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[00:34:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:34:45] [ServerMain/INFO]: Loaded 1174 recipes
+[00:34:45] [ServerMain/INFO]: Loaded 1271 advancements
+[00:34:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:34:45] [Server thread/INFO]: Loading properties
+[00:34:45] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[00:34:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:34:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:34:46] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:04:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:04:05] [Server thread/INFO]: Default game type: SURVIVAL
-[18:04:05] [Server thread/INFO]: Generating keypair
-[18:04:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:04:05] [Server thread/INFO]: Using epoll channel type
-[18:04:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:04:05] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loading 1 libraries... please wait
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/redis/clients/jedis/4.3.1/jedis-4.3.1.jar
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/json/json/20220320/json-20220320.jar
-[18:04:06] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
-[18:04:06] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[18:04:06] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[18:04:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:04:07] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:04:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[18:04:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[18:04:08] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.9
-[18:04:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:04:08] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:04:08] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
-[18:04:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6bcdb2cd]
-[18:04:09] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:04:09] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:04:10] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[18:04:10] [Server thread/INFO]: [floodgate] Took 475ms to boot Floodgate
-[18:04:10] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
-[18:04:10] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[18:04:10] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.6.0
-[18:04:10] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
-[18:04:10] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
-[18:04:10] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[18:04:10] [Server thread/INFO]: [XConomy] Loading server plugin XConomy v2.26.3
-[18:04:10] [Server thread/INFO]: [Coins] Loading server plugin Coins v1.13.1
-[18:04:10] [Server thread/INFO]: [MOTD] Loading server plugin MOTD v2.3.11
-[18:04:10] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.21
-[18:04:10] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.6.0
-[18:04:10] [Server thread/INFO]: [FlyPlus] Loading server plugin FlyPlus v3.4
-[18:04:10] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
-[18:04:10] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.4
-[18:04:10] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.6.0
-[18:04:10] [Server thread/INFO]: [VoidTeleport] Loading server plugin VoidTeleport v2.4.5
-[18:04:10] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.64.2
-[18:04:10] [Server thread/INFO]: [EasyCommandBlocker] Loading server plugin EasyCommandBlocker v1.14.2
-[18:04:10] [Server thread/INFO]: [SetSpawn] Loading server plugin SetSpawn v5.5
-[18:04:10] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[18:04:11] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[18:04:11] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[18:04:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.5
-[18:04:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:04:11] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.9
-[18:04:11] [Server thread/INFO]:         __    
-[18:04:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.9
-[18:04:11] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:04:11] [Server thread/INFO]: 
-[18:04:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:04:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:04:12] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:04:12] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1339ms)
-[18:04:12] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:04:12] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:04:12] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:04:12] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:04:12] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
-[18:04:12] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[18:04:12] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[18:04:12] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18:04:13] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[18:04:13] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
-[18:04:14] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[18:04:14] [Server thread/INFO]: [XConomy] Enabling XConomy v2.26.3
-[18:04:14] [Server thread/INFO]: [XConomy] UUID-Mode: Default
-[18:04:14] [Server thread/INFO]: [XConomy] Language: ENGLISH
-[18:04:14] [Server thread/INFO]: [XConomy] Saving method - SQLite
-[18:04:14] [Server thread/INFO]: [XConomy] SQLite successfully connected
-[18:04:14] [Server thread/INFO]: [XConomy] XConomy successfully enabled
-[18:04:14] [Server thread/INFO]: [XConomy] Found PlaceholderAPI
-[18:04:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: xconomy [2.26.3]
-[18:04:14] [Server thread/INFO]: [XConomy] PlaceholderAPI successfully hooked
-[18:04:14] [Server thread/INFO]: [XConomy] ===== YiC =====
-[18:04:14] [Server thread/INFO]: [MOTD] Enabling MOTD v2.3.11
-[18:04:14] [Server thread/INFO]: [MOTD] [Placeholder] PlaceholderAPI hooked.
-[18:04:14] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.21
-[18:04:14] [Folia Async Scheduler Thread #0/INFO]: [XConomy] Is the latest version
-[18:04:14] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.38s)
-[18:04:15] [Server thread/INFO]:           __             _       
-[18:04:15] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
-[18:04:15] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
-[18:04:15] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
-[18:04:15] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
-[18:04:15] [Server thread/INFO]:                   |___/            
-[18:04:15] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.21
-[18:04:15] [Server thread/INFO]:  
-[18:04:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.5
-[18:04:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
-[18:04:16] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[18:04:16] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:04:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.5]
-[18:04:16] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[18:04:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:04:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:04:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:04:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:04:16] [Server thread/INFO]: Preparing level "world"
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.5
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 9bd68f3
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:04:16] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:04:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:04:17] [Server thread/INFO]: Time elapsed: 289 ms
-[18:04:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:04:17] [Server thread/INFO]: Time elapsed: 64 ms
-[18:04:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:04:17] [Server thread/INFO]: Time elapsed: 171 ms
-[18:04:17] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[18:04:17] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
-[18:04:17] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:04:18] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:04:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:04:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[18:04:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[18:04:18] [Server thread/INFO]: [WorldGuard] Loading region data...
-[18:04:19] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.6.0
-[18:04:19] [Server thread/WARN]: [org.mineskin.MineSkinClient] Creating MineSkinClient without API key
-[18:04:19] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs (2.6.0) has been enabled.
-[18:04:19] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
-[18:04:20] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[18:04:21] [Server thread/INFO]: Time elapsed: 1103 ms
-[18:04:21] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
-[18:04:21] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
-[18:04:21] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
-[18:04:21] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
-[18:04:21] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
-[18:04:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
-[18:04:22] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[18:04:22] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[18:04:22] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[18:04:22] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
-[18:04:22] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[18:04:22] [Server thread/INFO]: [TAB] Enabled in 230ms
-[18:04:22] [Server thread/INFO]: [Coins] Enabling Coins v1.13.1
-[18:04:22] [Server thread/INFO]: [Coins] Vault is used as the economy provider.
-[18:04:22] [Server thread/INFO]: [Coins] Initialized in 78ms.
-[18:04:22] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.6.0
-[18:04:22] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.6.0
-[18:04:22] [Server thread/INFO]: [FlyPlus] Enabling FlyPlus v3.4
-[18:04:22] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[18:04:22] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[18:04:22] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[18:04:22] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[18:04:22] [Server thread/INFO]: [FlyPlus] Successfully hooked into LuckPerms!
-[18:04:22] [Server thread/INFO]: [FlyPlus] Enabled!
-[18:04:22] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
-[18:04:22] [Server thread/INFO]: 
-[18:04:22] [Server thread/INFO]: --------------------------------------
-[18:04:22] [Server thread/INFO]:        UltimateHomes by kixmc
-[18:04:22] [Server thread/INFO]:        Enabled on version 3.1
-[18:04:22] [Server thread/INFO]: --------------------------------------
-[18:04:22] [Server thread/INFO]:  
-[18:04:22] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.4
-[18:04:22] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
-[18:04:22] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
-[18:04:22] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
-[18:04:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.4]
-[18:04:22] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
-[18:04:23] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
-[18:04:23] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
-[18:04:23] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (8)
-[18:04:23] [Server thread/INFO]: [ProtectionStones] Building region cache...
-[18:04:23] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
-[18:04:23] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
-[18:04:23] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
-[18:04:23] [Server thread/INFO]: [VoidTeleport] Enabling VoidTeleport v2.4.5
-[18:04:23] [Server thread/INFO]: 
+[00:34:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[00:34:47] [Server thread/INFO]: Default game type: SURVIVAL
+[00:34:47] [Server thread/INFO]: Generating keypair
+[00:34:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:34:47] [Server thread/INFO]: Using epoll channel type
+[00:34:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:34:47] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loading 1 libraries... please wait
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/redis/clients/jedis/4.3.1/jedis-4.3.1.jar
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/apache/commons/commons-pool2/2.11.1/commons-pool2-2.11.1.jar
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/org/json/json/20220320/json-20220320.jar
+[00:34:48] [Server thread/INFO]: [SpigotLibraryLoader] [XConomy] Loaded library /workspaces/Deceasedserv/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar
+[00:34:49] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[00:34:49] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[00:34:49] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:34:50] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:34:50] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[00:34:50] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[00:34:50] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.9
+[00:34:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:34:51] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:34:51] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.7.482
+[00:34:51] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.12.2
+[00:34:52] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@19009313]
+[00:34:52] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[00:34:52] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[00:34:52] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[00:34:53] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[00:34:53] [Server thread/INFO]: [floodgate] Took 904ms to boot Floodgate
+[00:34:53] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[00:34:53] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.6.0
+[00:34:53] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
+[00:34:53] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.4
+[00:34:53] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[00:34:53] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[00:34:53] [Server thread/INFO]: [XConomy] Loading server plugin XConomy v2.26.3
+[00:34:53] [Server thread/INFO]: [Coins] Loading server plugin Coins v1.13.1
+[00:34:53] [Server thread/INFO]: [MOTD] Loading server plugin MOTD v2.3.11
+[00:34:53] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.21
+[00:34:54] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.6.0
+[00:34:54] [Server thread/INFO]: [FlyPlus] Loading server plugin FlyPlus v3.4
+[00:34:54] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.4
+[00:34:54] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.6.0
+[00:34:54] [Server thread/INFO]: [UltimateHomes] Loading server plugin UltimateHomes v3.1
+[00:34:54] [Server thread/INFO]: [VoidTeleport] Loading server plugin VoidTeleport v2.4.5
+[00:34:54] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.64.2
+[00:34:54] [Server thread/INFO]: [EasyCommandBlocker] Loading server plugin EasyCommandBlocker v1.14.2
+[00:34:54] [Server thread/INFO]: [SetSpawn] Loading server plugin SetSpawn v5.5
+[00:34:54] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[00:34:55] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[00:34:55] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[00:34:55] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.6.0.0.1286
+[00:34:55] [Server thread/INFO]: [CombatLogX] Configuration does not exist yet, no major changes necessary.
+[00:34:55] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[00:34:55] [Server thread/INFO]: [CombatLogX] There were no expansions to load.
+[00:34:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.5
+[00:34:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:34:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.9
+[00:34:56] [Server thread/INFO]:         __    
+[00:34:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.9
+[00:34:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:34:56] [Server thread/INFO]: 
+[00:34:56] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:34:56] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:34:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:34:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1671ms)
+[00:34:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:34:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:34:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:34:57] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:34:57] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.7.482
+[00:34:57] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 3 language(s).
+[00:34:57] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[00:34:57] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.12.2
+[00:34:57] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[00:34:57] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[00:34:57] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:34:57] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[00:34:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightFaweAdapter as the Bukkit adapter
+[00:34:58] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[00:34:58] [Server thread/INFO]: [XConomy] Enabling XConomy v2.26.3
+[00:34:59] [Server thread/INFO]: [XConomy] UUID-Mode: Default
+[00:34:59] [Server thread/INFO]: [XConomy] Language: ENGLISH
+[00:34:59] [Server thread/INFO]: [XConomy] Saving method - SQLite
+[00:34:59] [Server thread/INFO]: [XConomy] SQLite successfully connected
+[00:34:59] [Server thread/INFO]: [XConomy] XConomy successfully enabled
+[00:34:59] [Server thread/INFO]: [XConomy] Found PlaceholderAPI
+[00:34:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: xconomy [2.26.3]
+[00:34:59] [Server thread/INFO]: [XConomy] PlaceholderAPI successfully hooked
+[00:34:59] [Server thread/INFO]: [XConomy] ===== YiC =====
+[00:34:59] [Server thread/INFO]: [MOTD] Enabling MOTD v2.3.11
+[00:34:59] [Server thread/INFO]: [MOTD] [Placeholder] PlaceholderAPI hooked.
+[00:34:59] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.21
+[00:34:59] [Folia Async Scheduler Thread #0/INFO]: [XConomy] Is the latest version
+[00:34:59] [Server thread/INFO]: [nLogin] Successful plugin core start (took 0.40s)
+[00:34:59] [Server thread/INFO]:           __             _       
+[00:34:59] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[00:34:59] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[00:34:59] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[00:34:59] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[00:34:59] [Server thread/INFO]:                   |___/            
+[00:34:59] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.21
+[00:34:59] [Server thread/INFO]:  
+[00:35:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.5
+[00:35:01] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[00:35:01] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[00:35:02] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:35:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.7.5]
+[00:35:02] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[00:35:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:35:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:35:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:35:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:35:02] [Server thread/INFO]: Preparing level "world"
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.5
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 9bd68f3
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:35:02] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:35:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:35:02] [Server thread/INFO]: Time elapsed: 248 ms
+[00:35:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:35:02] [Server thread/INFO]: Time elapsed: 63 ms
+[00:35:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:35:02] [Server thread/INFO]: Time elapsed: 156 ms
+[00:35:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[00:35:02] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[00:35:02] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[00:35:03] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:35:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:35:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:35:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:35:03] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[00:35:04] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.6.0
+[00:35:04] [Server thread/WARN]: [org.mineskin.MineSkinClient] Creating MineSkinClient without API key
+[00:35:05] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs (2.6.0) has been enabled.
+[00:35:05] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
+[00:35:05] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[00:35:07] [Server thread/INFO]: Time elapsed: 1394 ms
+[00:35:07] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[00:35:07] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[00:35:07] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
+[00:35:07] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[00:35:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[00:35:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
+[00:35:07] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[00:35:07] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[00:35:07] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[00:35:07] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.4
+[00:35:07] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[00:35:07] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[00:35:07] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[00:35:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.4]
+[00:35:07] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[00:35:07] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[00:35:07] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[00:35:07] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (8)
+[00:35:08] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[00:35:08] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[00:35:08] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[00:35:08] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[00:35:08] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[00:35:08] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[00:35:08] [Server thread/INFO]: [TAB] Enabled in 182ms
+[00:35:08] [Server thread/INFO]: [Coins] Enabling Coins v1.13.1
+[00:35:08] [Server thread/INFO]: [Coins] Vault is used as the economy provider.
+[00:35:08] [Server thread/INFO]: [Coins] Initialized in 62ms.
+[00:35:08] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.6.0
+[00:35:08] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.6.0
+[00:35:08] [Server thread/INFO]: [FlyPlus] Enabling FlyPlus v3.4
+[00:35:08] [Server thread/INFO]: [FlyPlus] Successfully hooked into LuckPerms!
+[00:35:08] [Server thread/INFO]: [FlyPlus] Enabled!
+[00:35:08] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.4
+[00:35:08] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v3.1
+[00:35:08] [Server thread/INFO]: 
+[00:35:08] [Server thread/INFO]: --------------------------------------
+[00:35:08] [Server thread/INFO]:        UltimateHomes by kixmc
+[00:35:08] [Server thread/INFO]:        Enabled on version 3.1
+[00:35:08] [Server thread/INFO]: --------------------------------------
+[00:35:08] [Server thread/INFO]:  
+[00:35:08] [Server thread/INFO]: [VoidTeleport] Enabling VoidTeleport v2.4.5
+[00:35:09] [Server thread/INFO]: 
 
                 ===================================================
                                     VoidTeleport
@@ -218,262 +224,51 @@
 
                 ===================================================
 
-[18:04:23] [Server thread/INFO]: [VoidTeleport] Developed by EndlessGames.
-[18:04:23] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.64.2
-[18:04:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.64.2]
-[18:04:23] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.64.2
-[18:04:23] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[18:04:23] [Server thread/INFO]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.14.2
-[18:04:23] [Server thread/INFO]: [EasyCommandBlocker] Has been enabled! Version: 1.14.2
-[18:04:23] [Server thread/INFO]: [EasyCommandBlocker] Thanks for using my plugin!   ~Ajneb97
-[18:04:23] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v5.5
-[18:04:23] [Server thread/INFO]: [SetSpawn] Enabled!
-[18:04:23] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[18:04:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:04:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:04:24] [Server thread/INFO]: [Geyser-Spigot] 
-[18:04:24] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b872 (git-master-74456ee)
-[18:04:24] [Server thread/INFO]: [Geyser-Spigot] 
-[18:04:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:04:27] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[18:04:27] [Server thread/INFO]: [Geyser-Spigot] Done (3.566s)! Run /geyser help for help!
-[18:04:27] [Server thread/INFO]: Running delayed init tasks
-[18:04:27] [Craft Scheduler Thread - 0 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[18:04:27] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:04:27] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
-[18:04:27] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
-[18:04:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:04:28] [Server thread/INFO]: 6 placeholder hook(s) registered!
-[18:04:28] [Server thread/INFO]: Done (24.327s)! For help, type "help"
-[18:04:28] [Server thread/INFO]: Timings Reset
-[18:04:28] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
-[18:04:36] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[18:04:36] [Server thread/INFO]: ajxss[/127.183.195.212:57009] logged in with entity id 127 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
-[18:04:47] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ajxss has successfully logged in.
-[18:05:17] [Server thread/INFO]: Teleported ajxss to w:world.
-[18:05:42] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[18:05:42] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[18:05:54] [Server thread/INFO]: ajxss issued server command: /yuuprote
-[18:12:08] [Server thread/INFO]: ajxss issued server command: /spawn
-[18:12:12] [Server thread/INFO]: Teleported ajxss to w:world.
-[18:12:23] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[18:12:23] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[18:12:55] [Server thread/INFO]: ajxss issued server command: /mv setspawn
-[18:12:59] [Server thread/INFO]: ajxss issued server command: /mv setspawn
-[18:17:30] [Server thread/INFO]: ajxss issued server command: /spawn
-[18:17:50] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[18:17:50] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[18:18:24] [Server thread/INFO]: ajxss issued server command: /npc move_here
-[18:18:26] [Server thread/INFO]: ajxss issued server command: /npc move_here survi
-[18:19:12] [Server thread/INFO]: ajxss issued server command: /npc move_here survi
-[18:19:53] [Server thread/INFO]: ajxss issued server command: /hologram create text survi
-[18:20:29] [Server thread/INFO]: ajxss issued server command: /discord
-[18:20:31] [Server thread/INFO]: ajxss issued server command: /discord
-[18:23:40] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &c&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
-[18:23:52] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &4&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ ᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
-[18:24:28] [User Authenticator #1/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
-[18:24:30] [Server thread/INFO]: ajxss issued server command: /hologram edit survi setline 1 &4&lʀᴇᴄᴜᴇʀᴅᴀ Qᴜᴇ ᴇꜱᴛᴇ ꜱᴇʀᴠᴇʀ ɴᴏ ᴇꜱᴛᴀ ᴄᴇɴᴛʀᴀᴅᴏ
-[18:24:32] [Server thread/INFO]: YDCKYT[/127.78.110.85:35267] logged in with entity id 34240 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
-[18:24:47] [Server thread/INFO]: ajxss issued server command: /hologram edit survi addline &4&lᴇɴ ꜱᴇʀ ᴜɴᴀ ɴᴇᴛᴡᴏʀᴋ, ꜱɪ ᴇɴᴄᴜᴇɴᴛʀᴀꜱ ᴜɴ ᴇʀʀᴏʀ ʜᴀʙʟᴀʟᴏ ᴄᴏɴ ᴜɴʙ ᴀᴅᴍɪɴ
-[18:25:01] [Server thread/INFO]: ajxss issued server command: /holo edit survi background transparent
-[18:25:10] [Server thread/INFO]: ajxss issued server command: /holo edit survi brightness block
-[18:25:12] [Server thread/INFO]: ajxss issued server command: /holo edit survi brightness block 15
-[18:25:16] [Server thread/INFO]: YDCKYT lost connection: You took too long to register.
-[18:25:20] [User Authenticator #1/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
-[18:25:22] [Server thread/INFO]: YDCKYT[/127.78.110.85:37583] logged in with entity id 37674 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
-[18:25:30] [Server thread/INFO]: ajxss issued server command: /holo edit survi center
-[18:25:40] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user YDCKYT has successfully registered.
-[18:25:44] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 12
-[18:25:48] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 10
-[18:25:50] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 8
-[18:25:52] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 6
-[18:25:57] [Server thread/INFO]: ajxss issued server command: /holo edit survi scale 4
-[18:26:12] [Server thread/INFO]: YDCKYT issued server command: /sethome 123
-[18:26:12] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibilityDistance 16
-[18:26:21] [Server thread/INFO]: YDCKYT issued server command: /home
-[18:26:25] [Server thread/INFO]: YDCKYT issued server command: /home 123
-[18:26:26] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibility ALL
-[18:26:30] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibility 15
-[18:26:33] [Async Chat Thread - #0/INFO]: [Not Secure] <YDCKYT> oe
-[18:26:39] [Server thread/INFO]: ajxss issued server command: /holo edit survi visibilityDistance 64
-[18:26:40] [Server thread/INFO]: YDCKYT issued server command: /home 123
-[18:26:46] [Server thread/INFO]: YDCKYT issued server command: /home 123
-[18:26:54] [Server thread/INFO]: YDCKYT issued server command: /home 123
-[18:27:18] [Async Chat Thread - #0/INFO]: [Not Secure] <ajxss> ./yuuprote
-[18:27:21] [Server thread/INFO]: YDCKYT issued server command: /yuuprote
-[18:27:21] [Server thread/INFO]: Gave 8 to YDCKYT.
-[18:27:39] [Server thread/INFO]: YDCKYT issued server command: /yuuprote
-[18:27:45] [Server thread/INFO]: Teleported YDCKYT to w:world.
-[18:27:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
-[18:27:52] [Server thread/INFO]: Teleported ajxss to w:world.
-[18:28:47] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[18:28:47] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[18:28:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
-[18:28:56] [Server thread/INFO]: ajxss issued server command: /discord
-[18:29:02] [Server thread/INFO]: YDCKYT issued server command: /discord
-[18:29:07] [Server thread/INFO]: YDCKYT issued server command: /delhome 123
-[18:29:49] [Server thread/INFO]: YDCKYT issued server command: /skin set
-[18:29:52] [Server thread/INFO]: ajxss issued server command: /ecb reload
-[18:29:55] [Server thread/INFO]: YDCKYT lost connection: Disconnected
-[18:30:01] [User Authenticator #2/INFO]: UUID of player YDCKYT is 7f029dae-2573-3921-aff8-978b9e6178e1
-[18:30:03] [Server thread/INFO]: YDCKYT[/127.78.110.85:60817] logged in with entity id 48232 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
-[18:30:18] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user YDCKYT has successfully logged in.
-[18:30:33] [Server thread/INFO]: YDCKYT was slain by Zombie
-[18:31:17] [Server thread/INFO]: YDCKYT issued server command: /skin set YDCKYT
-[18:31:51] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:31:59] [Server thread/INFO]: YDCKYT issued server command: /spawn
-[18:32:02] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:32:05] [Server thread/INFO]: YDCKYT issued server command: /spawn
-[18:32:16] [Server thread/INFO]: YDCKYT issued server command: /spawn
-[18:32:25] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:32:27] [Server thread/INFO]: YDCKYT issued server command: /spawn
-[18:32:34] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:32:36] [Server thread/INFO]: ajxss issued server command: /ce reload
-[18:32:38] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:32:39] [Server thread/INFO]: ajxss issued server command: /discord
-[18:33:10] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:33:15] [Server thread/INFO]: YDCKYT issued server command: /spawn
-[18:33:23] [Server thread/INFO]: Teleported YDCKYT to w:world.
-[18:33:42] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:33:52] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:34:01] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:34:10] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:34:12] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:34:13] [Server thread/INFO]: YDCKYT issued server command: /skin random
-[18:36:09] [Server thread/INFO]: YDCKYT froze to death
-[18:36:18] [Server thread/INFO]: YDCKYT issued server command: /skin set https://www.minecraftskins.com/uploads/skins/2022/04/10/cerxh-20170338.png?v888
-[18:36:28] [Server thread/INFO]: ajxss issued server command: /tp YDCKYT
-[18:36:28] [Server thread/INFO]: [ajxss: Teleported ajxss to YDCKYT]
-[18:37:08] [Server thread/INFO]: ajxss issued server command: /rg info
-[18:37:10] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" __global__
-[18:38:28] [Server thread/INFO]: ajxss issued server command: /npc visibility_distance survi always_visible
-[18:39:11] [Server thread/INFO]: ajxss issued server command: /gamemode creative
-[18:39:11] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
-[18:41:11] [Server thread/INFO]: ajxss lost connection: Disconnected
-[18:41:14] [User Authenticator #3/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
-[18:41:15] [Server thread/INFO]: ajxss[/127.183.195.212:50819] logged in with entity id 84650 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
-[18:41:29] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ajxss has successfully logged in.
-[18:41:39] [Server thread/INFO]: YDCKYT fell from a high place
-[18:41:49] [Server thread/INFO]: ajxss issued server command: /rg info
-[18:41:52] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" __global__
-[18:41:57] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 1 __global__ sleep DENY
-[18:41:59] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 2 __global__
-[18:42:02] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ firework-damage DENY
-[18:42:03] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ block-trampling DENY
-[18:42:03] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ item-frame-rotation DENY
-[18:42:08] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ mob-damage DENY
-[18:42:09] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 2 __global__ exp-drops DENY
-[18:42:12] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 3 __global__
-[18:42:17] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 3 __global__ lava-fire DENY
-[18:42:18] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
-[18:42:19] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 4 __global__
-[18:42:29] [Server thread/INFO]: ajxss issued server command: /rg flags -w "spawn" -p 5 __global__
-[18:42:31] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ fall-damage DENY
-[18:42:37] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-health-regen DENY
-[18:42:37] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-hunger-drain DENY
-[18:42:42] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-health-regen ALLOW
-[18:42:42] [Server thread/INFO]: ajxss issued server command: /rg flag -w "spawn" -h 5 __global__ natural-hunger-drain ALLOW
-[18:42:48] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
-[18:43:50] [Server thread/INFO]: ajxss issued server command: /lp user YDCKYT parent set mod
-[18:43:50] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ydckyt)
-[18:43:50] [luckperms-command-executor/INFO]: [LP] LOG > parent set mod
-[18:43:57] [Server thread/INFO]: ajxss issued server command: /lp user YDCKYT parent set owner
-[18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > (ajxss) [U] (ydckyt)
-[18:43:57] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
-[18:44:23] [Server thread/INFO]: YDCKYT issued server command: /tps
-[18:44:31] [Server thread/INFO]: YDCKYT issued server command: /tps
-[18:44:32] [Server thread/INFO]: YDCKYT issued server command: /tps
-[18:44:32] [Server thread/INFO]: ajxss issued server command: /tps
-[18:44:33] [Server thread/INFO]: YDCKYT issued server command: /tps
-[18:44:34] [Server thread/INFO]: YDCKYT issued server command: /tps
-[18:46:09] [Server thread/INFO]: YDCKYT issued server command: /kill
-[18:46:09] [Server thread/INFO]: YDCKYT was killed
-[18:46:10] [Server thread/INFO]: [YDCKYT: Killed YDCKYT]
-[18:46:17] [Server thread/INFO]: YDCKYT issued server command: /flyplus:fly
-[18:46:42] [Server thread/INFO]: ajxss issued server command: /tp ajxss YDCKYT
-[18:46:42] [Server thread/INFO]: [ajxss: Teleported ajxss to YDCKYT]
-[18:47:37] [Server thread/INFO]: ajxss issued server command: /stop
-[18:47:37] [Server thread/INFO]: [ajxss: Stopping the server]
-[18:47:37] [Server thread/INFO]: Stopping server
-[18:47:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.5
-[18:47:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[18:47:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[18:47:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[18:47:38] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v5.5
-[18:47:38] [Server thread/INFO]: [SetSpawn] Disabled!
-[18:47:38] [Server thread/INFO]: [EasyCommandBlocker] Disabling EasyCommandBlocker v1.14.2
-[18:47:38] [Server thread/INFO]: [EasyCommandBlocker] Has been disabled! Version: 1.14.2
-[18:47:38] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.64.2
-[18:47:38] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.64.2
-[18:47:38] [Server thread/INFO]: [VoidTeleport] Disabling VoidTeleport v2.4.5
-[18:47:38] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.4
-[18:47:38] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
-[18:47:38] [Server thread/INFO]: [FlyPlus] Disabling FlyPlus v3.4
-[18:47:38] [Server thread/INFO]: [FancyHolograms] Disabling FancyHolograms v2.6.0
-[18:47:38] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully disabled FancyHolograms version 2.6.0
-[18:47:38] [Server thread/INFO]: [nLogin] Disabling nLogin v10.4.21
-[18:47:38] [Server thread/INFO]: [nLogin] Successful plugin core shutdown (took 0.00s)
-[18:47:38] [Server thread/INFO]: [MOTD] Disabling MOTD v2.3.11
-[18:47:38] [Server thread/INFO]: [Coins] Disabling Coins v1.13.1
-[18:47:38] [Server thread/INFO]: [XConomy] Disabling XConomy v2.26.3
-[18:47:38] [Server thread/INFO]: [XConomy] XConomy successfully disabled
-[18:47:38] [Server thread/INFO]: [TAB] Disabling TAB v5.2.4
-[18:47:38] [Server thread/INFO]: [TAB] Disabled in 1ms
-[18:47:38] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.1
-[18:47:38] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.1.0
-[18:47:38] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.6.0
-[18:47:38] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs has been disabled.
-[18:47:38] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[18:47:38] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
-[18:47:38] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[18:47:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[18:47:38] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:47:38] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.12.2
-[18:47:38] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[18:47:38] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:47:38] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.9
-[18:47:38] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:47:38] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:47:38] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:47:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[18:47:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[18:47:38] [Server thread/INFO]: Saving players
-[18:47:38] [Server thread/INFO]: ajxss lost connection: Server closed
-[18:47:38] [WebSocketConnectReadThread-164/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[18:47:38] [Server thread/INFO]: ajxss left the game
-[18:47:38] [Server thread/INFO]: YDCKYT lost connection: Server closed
-[18:47:38] [Server thread/INFO]: YDCKYT left the game
-[18:47:38] [Server thread/INFO]: Saving worlds
-[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 521 block chunks, 181 entity chunks, 0 poi chunks in world 'world' in 0.26s
-[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'spawn'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'spawn'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'spawn'
-[18:47:38] [Server thread/INFO]: [ChunkHolderManager] Saved 71 block chunks, 70 entity chunks, 0 poi chunks in world 'spawn' in 0.02s
-[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
-[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:47:38] [Server thread/INFO]: Flushing Chunk IO
-[18:47:38] [Server thread/INFO]: Closing Thread Pool
-[18:47:38] [Server thread/INFO]: Closing Server
+[00:35:09] [Server thread/INFO]: [VoidTeleport] Developed by EndlessGames.
+[00:35:09] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.64.2
+[00:35:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.64.2]
+[00:35:09] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.64.2
+[00:35:09] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[00:35:09] [Server thread/INFO]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.14.2
+[00:35:09] [Server thread/INFO]: [EasyCommandBlocker] Has been enabled! Version: 1.14.2
+[00:35:09] [Server thread/INFO]: [EasyCommandBlocker] Thanks for using my plugin!   ~Ajneb97
+[00:35:09] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v5.5
+[00:35:09] [Server thread/INFO]: [SetSpawn] Enabled!
+[00:35:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[00:35:09] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.6.0.0.1286
+[00:35:09] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[00:35:09] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[00:35:09] [Server thread/INFO]: CombatLogX was loaded successfully.
+[00:35:09] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[00:35:09] [Server thread/INFO]: [CombatLogX] There were no expansions to enable.
+[00:35:09] [Server thread/INFO]: CombatLogX was enabled successfully.
+[00:35:09] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:35:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:35:10] [Server thread/INFO]: [Geyser-Spigot] 
+[00:35:10] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b872 (git-master-74456ee)
+[00:35:10] [Server thread/INFO]: [Geyser-Spigot] 
+[00:35:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[00:35:13] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[00:35:13] [Server thread/INFO]: [Geyser-Spigot] Done (3.29s)! Run /geyser help for help!
+[00:35:13] [Server thread/INFO]: Running delayed init tasks
+[00:35:13] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:35:13] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[00:35:13] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[00:35:13] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:35:13] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[00:35:13] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[00:35:13] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[00:35:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[00:35:13] [Server thread/INFO]: 6 placeholder hook(s) registered!
+[00:35:13] [Server thread/INFO]: Done (28.147s)! For help, type "help"
+[00:35:13] [Server thread/INFO]: Timings Reset
+[00:35:14] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[00:35:14] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[00:40:08] [User Authenticator #0/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[00:40:09] [Server thread/INFO]: ajxss[/127.149.205.21:47745] logged in with entity id 117 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
+[00:40:16] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user ajxss has successfully logged in.
