@@ -334,3 +334,14 @@
 [01:25:01] [Async Chat Thread - #4/INFO]: [Not Secure] <ajxss> como te voy a tirar tp oe
 [01:25:04] [Server thread/INFO]: ajxss issued server command: /tp SR_Senna1990
 [01:25:04] [Server thread/INFO]: [ajxss: Teleported ajxss to SR_Senna1990]
+[01:25:10] [Server thread/INFO]: ajxss issued server command: /tps
+[01:25:14] [Async Chat Thread - #4/INFO]: [Not Secure] <SR_Senna1990> sacame de la cueva
+[01:25:29] [Server thread/INFO]: ajxss issued server command: /tp SR_Senna1990 ajxss
+[01:25:29] [Server thread/INFO]: [ajxss: Teleported SR_Senna1990 to ajxss]
+[01:25:34] [Async Chat Thread - #4/INFO]: [Not Secure] <ajxss> ya ta causa
+[01:25:36] [Async Chat Thread - #4/INFO]: [Not Secure] <SR_Senna1990> grax
+[01:25:36] [Async Chat Thread - #4/INFO]: [Not Secure] <ajxss> bai bai
+[01:25:46] [Server thread/INFO]: ajxss issued server command: /tps
+[01:25:47] [Server thread/INFO]: ajxss lost connection: Disconnected
+[01:28:09] [Server thread/INFO]: SR_Senna1990 has made the advancement [What a Deal!]
+[01:34:59] [Server thread/INFO]: Villager EntityVillager['Villager'/33590, uuid='2def267e-525d-4df8-aea5-d437c79188ce', l='ServerLevel[world]', x=366.30, y=79.00, z=68.30, cpos=[22, 4], tl=44369, v=true] died, message: 'Villager was slain by Zombie'
