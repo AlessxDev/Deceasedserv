@@ -300,3 +300,23 @@
 [00:54:00] [Server thread/INFO]: ajxss issued server command: /spawn
 [00:54:05] [Server thread/INFO]: ajxss issued server command: /gamemode creative
 [00:54:05] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:55:17] [Server thread/INFO]: ajxss issued server command: /tp SR_Senna1990
+[00:55:17] [Server thread/INFO]: [ajxss: Teleported ajxss to SR_Senna1990]
+[00:55:19] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[00:55:19] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:56:12] [Server thread/INFO]: SR_Senna1990 has made the advancement [Suit Up]
+[00:56:13] [Server thread/INFO]: SR_Senna1990 has made the advancement [Acquire Hardware]
+[00:56:33] [Server thread/INFO]: ajxss issued server command: /gamemode survival
+[00:56:33] [Server thread/INFO]: [ajxss: Set own game mode to Survival Mode]
+[00:56:38] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[00:56:38] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:56:43] [Server thread/INFO]: ajxss issued server command: /gamemode survival
+[00:56:43] [Server thread/INFO]: [ajxss: Set own game mode to Survival Mode]
+[00:56:44] [Server thread/INFO]: ajxss has reached the goal [Postmortal]
+[00:56:48] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[00:56:48] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:58:01] [Server thread/INFO]: ajxss has made the advancement [Ol' Betsy]
+[01:01:08] [Server thread/INFO]: SR_Senna1990 has made the advancement [Sweet Dreams]
+[01:01:29] [Async Chat Thread - #2/INFO]: [Not Secure] <SR_Senna1990> duermeç
+[01:01:33] [Async Chat Thread - #3/INFO]: [Not Secure] <ajxss> xd
+[01:01:41] [Server thread/INFO]: ajxss has made the advancement [Sweet Dreams]

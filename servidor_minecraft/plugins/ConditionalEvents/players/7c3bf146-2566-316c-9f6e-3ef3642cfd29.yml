@@ -1,0 +1,5 @@
+name: SR_Senna1990
+events:
+  prote:
+    one_time: true
+    cooldown: 0
