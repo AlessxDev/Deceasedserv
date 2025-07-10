@@ -1,4 +1,11 @@
 player:
   info:
     lastSeenAs: SR_Senna1990
-homes: {}
+homes:
+  home:
+    x: 395
+    y: 71
+    z: 72
+    yaw: 79.80737
+    pitch: 38.55026
+    world: world
