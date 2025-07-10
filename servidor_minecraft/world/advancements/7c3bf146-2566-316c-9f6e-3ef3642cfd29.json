@@ -7,10 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-07-10 00:34:24 +0000",
       "minecraft:forest": "2025-07-09 00:48:27 +0000",
       "minecraft:taiga": "2025-07-09 00:54:22 +0000",
       "minecraft:river": "2025-07-09 00:55:16 +0000",
       "minecraft:birch_forest": "2025-07-09 00:53:44 +0000",
+      "minecraft:lush_caves": "2025-07-10 00:31:43 +0000",
       "minecraft:plains": "2025-07-09 00:47:11 +0000"
     },
     "done": false
@@ -58,6 +60,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-09 02:30:28 +0000",
+      "golden_apple": "2025-07-10 00:39:05 +0000",
       "rotten_flesh": "2025-07-09 00:50:34 +0000",
       "cooked_mutton": "2025-07-09 01:09:06 +0000",
       "sweet_berries": "2025-07-09 00:55:46 +0000",
@@ -1433,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-10 00:29:22 +0000"
@@ -1445,15 +1454,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-10 00:35:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-10 00:29:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-10 00:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
     },
     "done": true
   },
@@ -1469,15 +1496,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-10 00:31:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-10 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
     },
     "done": true
   },
@@ -1499,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-10 00:29:22 +0000"
@@ -1511,9 +1562,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-10 00:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-10 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
     },
     "done": true
   },
@@ -1526,6 +1601,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-07-10 00:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-10 00:35:41 +0000"
     },
     "done": true
   },
