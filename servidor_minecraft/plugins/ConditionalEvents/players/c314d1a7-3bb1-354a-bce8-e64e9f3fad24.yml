@@ -1,0 +1,5 @@
+name: DanAlester
+events:
+  prote:
+    one_time: true
+    cooldown: 0

@@ -179,3 +179,129 @@
 [01:28:42] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
 [01:30:04] [Async Chat Thread - #24/INFO]: [Not Secure] <ajxss> tengo alto lag XDD
 [01:30:10] [Async Chat Thread - #24/INFO]: [Not Secure] <ajxss> csm el ping
+[01:30:16] [Async Chat Thread - #24/INFO]: [Not Secure] <sisoydanocraft> comprate otra pc XD
+[01:30:21] [Async Chat Thread - #24/INFO]: [Not Secure] <SR_Senna1990> 1000 practicamente
+[01:30:25] [Async Chat Thread - #24/INFO]: [Not Secure] <ajxss> no es de la pc, me refiero al ping
+[01:30:53] [User Authenticator #9/INFO]: UUID of player Pico_minecraft is 4a85937b-8083-34b6-af4a-1245a89ad593
+[01:30:55] [Server thread/INFO]: Pico_minecraft[/127.36.220.135:59421] logged in with entity id 80223 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:31:06] [Async Chat Thread - #24/INFO]: [Not Secure] <ajxss> server en ascendencia
+[01:31:26] [Server thread/INFO]: SR_Senna1990 lost connection: Disconnected
+[01:31:39] [Server thread/INFO]: Pico_minecraft lost connection: You took too long to register.
+[01:31:45] [User Authenticator #9/INFO]: UUID of player Pico_minecraft is 4a85937b-8083-34b6-af4a-1245a89ad593
+[01:31:46] [Server thread/INFO]: Pico_minecraft[/127.36.220.135:42399] logged in with entity id 83514 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:31:56] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[01:31:56] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[01:31:59] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[01:31:59] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[01:32:06] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[01:32:06] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[01:32:11] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[01:32:11] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[01:32:27] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user Pico_minecraft has successfully registered.
+[01:32:31] [Server thread/INFO]: Teleported Pico_minecraft to w:world.
+[01:33:16] [Server thread/INFO]: Zhoomker has made the advancement [Suit Up]
+[01:34:38] [Server thread/INFO]: Pico_minecraft has made the advancement [Stone Age]
+[01:35:07] [Server thread/INFO]: Pico_minecraft has made the advancement [Getting an Upgrade]
+[01:35:09] [Server thread/INFO]: ajxss issued server command: /tps
+[01:35:15] [User Authenticator #10/INFO]: UUID of player SR_Senna1990 is 7c3bf146-2566-316c-9f6e-3ef3642cfd29
+[01:35:16] [Server thread/INFO]: SR_Senna1990[/127.201.126.209:47151] logged in with entity id 87773 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:35:28] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user SR_Senna1990 has successfully logged in.
+[01:35:34] [Async Chat Thread - #26/INFO]: [Not Secure] <the_davidx> hoa
+[01:35:44] [Async Chat Thread - #26/INFO]: [Not Secure] <sisoydanocraft> holi :D
+[01:35:54] [Async Chat Thread - #26/INFO]: [Not Secure] <ajxss> el único problema del server es la región :v, porq de por si el server siempre esta en 20 tps XD
+[01:36:13] [Server thread/INFO]: SR_Senna1990 lost connection: Disconnected
+[01:36:17] [User Authenticator #11/INFO]: UUID of player SR_Senna1990 is 7c3bf146-2566-316c-9f6e-3ef3642cfd29
+[01:36:18] [Server thread/INFO]: SR_Senna1990[/127.201.126.209:37569] logged in with entity id 89118 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:36:20] [Server thread/INFO]: Pico_minecraft has made the advancement [Monster Hunter]
+[01:36:32] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user SR_Senna1990 has successfully logged in.
+[01:36:51] [Async Chat Thread - #26/INFO]: [Not Secure] <ajxss> yuu creo que es la que más avanzada esta XD
+[01:37:01] [Async Chat Thread - #26/INFO]: [Not Secure] <ajxss> a non, es el vicio de SR_Senna1990
+[01:37:08] [Server thread/INFO]: ajxss issued server command: /tp SR_Senna1990
+[01:37:08] [Server thread/INFO]: [ajxss: Teleported ajxss to SR_Senna1990]
+[01:37:15] [Async Chat Thread - #26/INFO]: [Not Secure] <SR_Senna1990> :V soy el beta tester
+[01:37:16] [Async Chat Thread - #26/INFO]: [Not Secure] <ajxss> o csm que vicio
+[01:38:00] [Server thread/INFO]: ajxss issued server command: /tp Yuu_Aoi
+[01:38:00] [Server thread/INFO]: [ajxss: Teleported ajxss to Yuu_Aoi]
+[01:38:28] [Async Chat Thread - #28/INFO]: [Not Secure] <ajxss> tengo 2k de ping XD
+[01:38:35] [Async Chat Thread - #28/INFO]: [Not Secure] <the_davidx> ALV XDD
+[01:38:37] [Async Chat Thread - #28/INFO]: [Not Secure] <SR_Senna1990> xdd
+[01:38:39] [Async Chat Thread - #28/INFO]: [Not Secure] <ajxss> 6k JAJAJAJ
+[01:38:52] [Async Chat Thread - #28/INFO]: [Not Secure] <sisoydanocraft> hasta el admin tiene lag XD
+[01:39:07] [Async Chat Thread - #28/INFO]: [Not Secure] <ajxss> csm la región causa ;c
+[01:40:37] [User Authenticator #12/INFO]: UUID of player DanAlester is c314d1a7-3bb1-354a-bce8-e64e9f3fad24
+[01:40:38] [Server thread/INFO]: DanAlester[/127.63.235.141:33271] logged in with entity id 92834 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:40:53] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user DanAlester has successfully registered.
+[01:41:19] [User Authenticator #12/INFO]: UUID of player BenjiPraim is 77952ef2-aaa1-3bb3-acb3-bbe510d55dd7
+[01:41:19] [Server thread/INFO]: BenjiPraim[/127.196.189.28:49459] logged in with entity id 95610 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:41:23] [Server thread/INFO]: Teleported DanAlester to w:world.
+[01:41:44] [Server thread/INFO]: DanAlester issued server command: /yuuprote
+[01:41:44] [Server thread/INFO]: Gave 8 to DanAlester.
+[01:41:46] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user BenjiPraim has successfully registered.
+[01:41:55] [Server thread/INFO]: the_davidx lost connection: This player is already online.
+[01:41:55] [User Authenticator #12/INFO]: UUID of player the_davidx is 5a0b58ef-d3b0-3dad-b20c-fd2837daac87
+[01:41:56] [Server thread/INFO]: the_davidx[/127.171.174.63:50461] logged in with entity id 98253 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:42:08] [Server thread/WARN]: DanAlester was kicked due to keepalive timeout!
+[01:42:08] [Server thread/INFO]: DanAlester lost connection: Timed out
+[01:42:14] [Server thread/INFO]: the_davidx lost connection: You entered the incorrect password.
+[01:42:19] [Server thread/INFO]: ajxss issued server command: //set ice
+[01:42:19] [AsyncNotifyKeyedQueue - 6/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R3.PaperweightStarlightRelighterFactory as relighter factory.
+[01:42:24] [Server thread/INFO]: Teleported BenjiPraim to w:world.
+[01:42:26] [User Authenticator #12/INFO]: UUID of player the_davidx is 5a0b58ef-d3b0-3dad-b20c-fd2837daac87
+[01:42:27] [Server thread/INFO]: the_davidx[/127.171.174.63:55353] logged in with entity id 100703 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:42:33] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user the_davidx has successfully logged in.
+[01:42:44] [Async Chat Thread - #30/INFO]: [Not Secure] <the_davidx> volvi!!
+[01:42:59] [Server thread/INFO]: Pico_minecraft has made the advancement [Acquire Hardware]
+[01:43:05] [Server thread/INFO]: Pico_minecraft has made the advancement [Isn't It Iron Pick]
+[01:43:20] [Async Chat Thread - #30/INFO]: [Not Secure] <ajxss> se me perdio yuu tmre
+[01:43:43] [Async Chat Thread - #30/INFO]: [Not Secure] <Zhoomker> menos mal jsjs
+[01:43:48] [Server thread/INFO]: BenjiPraim has made the advancement [Stone Age]
+[01:43:53] [Server thread/INFO]: BenjiPraim has made the advancement [Getting an Upgrade]
+[01:43:57] [Async Chat Thread - #30/INFO]: [Not Secure] <the_davidx> tmr no hay ovejas xdd
+[01:43:58] [Async Chat Thread - #30/INFO]: [Not Secure] <ajxss> tengo ta mal ping que vi que paso abajo mio XDDD
+[01:44:07] [Async Chat Thread - #30/INFO]: [Not Secure] <ajxss> en el stream ve karajo
+[01:45:41] [Server thread/INFO]: BenjiPraim issued server command: /spawn
+[01:45:42] [Async Chat Thread - #32/INFO]: [Not Secure] <the_davidx> tremendo huecaso
+[01:45:50] [Server thread/INFO]: Teleported BenjiPraim to w:world.
+[01:45:50] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> huecote
+[01:46:04] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> JAJAJAJ njdas como tengo tan mal ping
+[01:46:05] [Server thread/INFO]: ajxss lost connection: Disconnected
+[01:46:34] [User Authenticator #13/INFO]: UUID of player ajxss is 7bbd3b30-b543-36f9-830b-124ed5664ff5
+[01:46:35] [Server thread/INFO]: ajxss[/127.149.205.21:48821] logged in with entity id 106187 at ([spawn]-72.48951550371217, 4.0, 0.386234517868405)
+[01:46:35] [Server thread/INFO]: BenjiPraim has made the advancement [Monster Hunter]
+[01:46:39] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user ajxss has successfully logged in.
+[01:46:41] [Server thread/INFO]: ajxss issued server command: /gamemode adventure
+[01:46:41] [Server thread/INFO]: [ajxss: Set own game mode to Adventure Mode]
+[01:46:43] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[01:46:43] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[01:46:55] [Async Chat Thread - #32/INFO]: [Not Secure] <Pico_minecraft> se fue el admin ay que decir malas palabras
+[01:46:57] [Async Chat Thread - #32/INFO]: [Not Secure] <BenjiPraim> repampanos
+[01:47:02] [Async Chat Thread - #33/INFO]: [Not Secure] <ajxss> csm el ping
+[01:47:10] [Async Chat Thread - #33/INFO]: [Not Secure] <ajxss> 2k
+[01:47:12] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> mucha gracia
+[01:47:39] [Server thread/INFO]: Yuu_Aoi has made the advancement [Isn't It Iron Pick]
+[01:47:55] [Async Chat Thread - #32/INFO]: [Not Secure] <sisoydanocraft> como hago una cama chicos :(
+[01:48:07] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> haciendola
+[01:48:16] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> 🥀
+[01:48:26] [Server thread/INFO]: BenjiPraim has made the advancement [Sweet Dreams]
+[01:48:45] [Server thread/INFO]: BenjiPraim was shot by Skeleton
+[01:48:50] [Async Chat Thread - #32/INFO]: [Not Secure] <the_davidx> alv mi ping es una mrd
+[01:48:56] [Async Chat Thread - #32/INFO]: [Not Secure] <the_davidx> XDD
+[01:49:01] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> pues si el tuyo es mrd que es el mio
+[01:49:11] [User Authenticator #14/INFO]: UUID of player IIFears is 76553903-25db-3ca1-8767-b4e17f35b855
+[01:49:12] [Server thread/INFO]: IIFears[/127.49.176.24:50385] logged in with entity id 109038 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[01:49:21] [Server thread/INFO]: sisoydanocraft has made the advancement [Sweet Dreams]
+[01:49:26] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> entro otro cholo, se multiplican
+[01:49:27] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user IIFears has successfully registered.
+[01:49:28] [Async Chat Thread - #32/INFO]: [Not Secure] <sisoydanocraft> gracias causa
+[01:49:31] [AsyncNotifyKeyedQueue - 8/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[01:49:31] [Server thread/INFO]: Teleported IIFears to w:world.
+[01:49:33] [Async Chat Thread - #32/INFO]: [Not Secure] <sisoydanocraft> :d
+[01:49:36] [Async Chat Thread - #32/INFO]: [Not Secure] <the_davidx> yo ando mal pero usted esta en numeros negativos xd
+[01:49:57] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> 220 de ping?
+[01:50:02] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> tremendo ganador soy carajo
+[01:50:15] [Async Chat Thread - #32/INFO]: [Not Secure] <the_davidx> alv recien lo veo
+[01:50:18] [Server thread/INFO]: Pico_minecraft has made the advancement [Suit Up]
+[01:50:28] [Server thread/INFO]: BenjiPraim has made the advancement [Acquire Hardware]
+[01:50:30] [Async Chat Thread - #32/INFO]: [Not Secure] <ajxss> alv hay un grosero con 60 de ping
+[01:50:32] [Async Chat Thread - #33/INFO]: [Not Secure] <the_davidx> puto movistar
+[01:50:36] [Async Chat Thread - #33/INFO]: [Not Secure] <ajxss> ese vive al lado del servidor

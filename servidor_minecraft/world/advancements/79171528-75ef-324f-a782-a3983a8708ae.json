@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-13 01:33:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-13 01:21:29 +0000"
@@ -671,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-13 01:23:18 +0000"
@@ -707,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-13 01:28:14 +0000"
@@ -734,6 +752,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-13 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
     },
     "done": true
   },
@@ -863,6 +887,12 @@
       "minecraft:creeper": "2025-07-13 01:11:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
@@ -1017,9 +1047,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-13 01:09:28 +0000",
-      "salmon": "2025-07-13 01:11:16 +0000"
+      "salmon": "2025-07-13 01:11:16 +0000",
+      "cooked_salmon": "2025-07-13 01:35:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1036,6 +1073,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-13 00:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
     },
     "done": true
   },
@@ -1129,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-13 01:04:10 +0000"
@@ -1150,6 +1199,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-13 01:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-13 01:37:53 +0000"
     },
     "done": true
   },
