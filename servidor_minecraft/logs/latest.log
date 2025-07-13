@@ -723,3 +723,28 @@
 [03:01:39] [Server thread/INFO]: sisoydanocraft[/127.46.165.22:53017] logged in with entity id 190701 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
 [03:01:48] [Server thread/INFO]: Pico_minecraft has made the advancement [Enchanter]
 [03:01:53] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user sisoydanocraft has successfully logged in.
+[03:02:39] [Server thread/WARN]: sisoydanocraft was kicked due to keepalive timeout!
+[03:02:39] [Server thread/INFO]: sisoydanocraft lost connection: Timed out
+[03:03:40] [User Authenticator #27/INFO]: UUID of player sisoydanocraft is db7bd0a9-c0d7-3a88-a244-0b79db717908
+[03:03:41] [Server thread/INFO]: sisoydanocraft[/127.46.165.22:33673] logged in with entity id 192335 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[03:03:51] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user sisoydanocraft has successfully logged in.
+[03:04:26] [Async Chat Thread - #75/INFO]: [Not Secure] <the_davidx> e vuelto ooo
+[03:05:09] [Server thread/INFO]: the_davidx has made the advancement [Sound of Music]
+[03:05:18] [Server thread/WARN]: sisoydanocraft moved too quickly! 20.48434960717111,6.998664020887858,-5.520402447687516
+[03:05:25] [Server thread/INFO]: Pico_minecraft lost connection: Disconnected
+[03:05:47] [Server thread/WARN]: IIFears was kicked for floating too long!
+[03:05:47] [Server thread/INFO]: IIFears lost connection: Flying is not enabled on this server
+[03:06:04] [Server thread/INFO]: sisoydanocraft was shot by Skeleton
+[03:07:05] [Server thread/INFO]: Teleported sisoydanocraft to w:world.
+[03:07:05] [Server thread/INFO]: SR_PYCHON was shot by Skeleton
+[03:07:15] [AsyncNotifyKeyedQueue - 20/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[03:07:15] [Server thread/INFO]: Teleported SR_PYCHON to w:world.
+[03:08:49] [Async Chat Thread - #77/INFO]: [Not Secure] <sisoydanocraft> pichon :D
+[03:08:58] [Async Chat Thread - #78/INFO]: [Not Secure] <SR_PYCHON> hola
+[03:09:24] [Server thread/INFO]: the_davidx has made the advancement [Diamonds!]
+[03:09:55] [Server thread/INFO]: sisoydanocraft was shot by Skeleton
+[03:10:11] [Server thread/WARN]: sisoydanocraft was kicked due to keepalive timeout!
+[03:10:11] [Server thread/INFO]: sisoydanocraft lost connection: Timed out
+[03:10:38] [Async Chat Thread - #80/INFO]: [Not Secure] <SR_Senna1990> mi humilda proyecto :v
+[03:11:46] [Server thread/INFO]: Yuu_Aoi issued server command: /shop
+[03:12:26] [Server thread/INFO]: Zhoomker has made the advancement [A Throwaway Joke]
