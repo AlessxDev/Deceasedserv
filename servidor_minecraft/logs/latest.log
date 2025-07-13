@@ -24,3 +24,17 @@
 [00:29:00] [Server thread/INFO]: Villager EntityVillager['Armorer'/39827, uuid='69a96aeb-bb0c-4a54-aff5-7f5b8c5bbd03', l='ServerLevel[world]', x=395.70, y=71.00, z=78.70, cpos=[24, 4], tl=336955, v=true] died, message: 'Armorer was shot by SR_Senna1990'
 [00:29:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/39829, uuid='2ecebfcc-5298-4a99-aadd-2281c49ea451', l='ServerLevel[world]', x=391.66, y=71.00, z=78.39, cpos=[24, 4], tl=337753, v=true] died, message: 'Fletcher was shot by SR_Senna1990'
 [00:29:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/39828, uuid='1159cd3b-767e-4713-b3e4-21c76943e6d3', l='ServerLevel[world]', x=389.37, y=71.00, z=78.70, cpos=[24, 4], tl=338494, v=true] died, message: 'Farmer was shot by SR_Senna1990'
+[00:29:40] [User Authenticator #3/INFO]: UUID of player Yuu_Aoi is 7ce2d9ce-d1cb-3c6f-bfbd-489006d6794e
+[00:29:41] [Server thread/INFO]: Yuu_Aoi[/127.249.130.8:44981] logged in with entity id 40871 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[00:29:57] [Async Chat Thread - #1/INFO]: [Not Secure] <SR_Senna1990> hola
+[00:30:20] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user Yuu_Aoi has successfully logged in.
+[00:30:49] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/39842, uuid='10276adf-af1a-4b69-a9f4-7b36af3d70ce', l='ServerLevel[world]', x=453.50, y=64.00, z=72.30, cpos=[28, 4], tl=342819, v=true] died, message: 'Weaponsmith was shot by SR_Senna1990'
+[00:31:01] [Async Chat Thread - #2/INFO]: [Not Secure] <Yuu_Aoi> wa
+[00:31:10] [Async Chat Thread - #2/INFO]: [Not Secure] <SR_Senna1990> hola
+[00:31:22] [Async Chat Thread - #2/INFO]: [Not Secure] <SR_Senna1990> AYRTON :V
+[00:32:10] [Server thread/INFO]: Teleported Yuu_Aoi to w:world.
+[00:32:49] [Server thread/INFO]: SR_Senna1990 issued server command: /home
+[00:33:45] [Async Chat Thread - #4/INFO]: [Not Secure] <SR_Senna1990> ya voy
+[00:36:51] [Async Chat Thread - #6/INFO]: [Not Secure] <SR_Senna1990> te ayudo o sabes jugar xd
+[00:37:44] [Server thread/INFO]: Yuu_Aoi has made the advancement [Stone Age]
+[00:39:11] [Server thread/INFO]: Yuu_Aoi has made the advancement [Getting an Upgrade]
