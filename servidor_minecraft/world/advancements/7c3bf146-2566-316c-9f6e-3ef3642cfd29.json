@@ -10,6 +10,7 @@
       "minecraft:dark_forest": "2025-07-10 00:34:24 +0000",
       "minecraft:forest": "2025-07-09 00:48:27 +0000",
       "minecraft:taiga": "2025-07-09 00:54:22 +0000",
+      "minecraft:cherry_grove": "2025-07-13 00:51:19 +0000",
       "minecraft:river": "2025-07-09 00:55:16 +0000",
       "minecraft:meadow": "2025-07-10 02:36:18 +0000",
       "minecraft:birch_forest": "2025-07-09 00:53:44 +0000",
@@ -1898,9 +1899,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-13 00:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-07-13 00:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-13 00:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-13 00:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-13 00:52:43 +0000"
     },
     "done": true
   },
