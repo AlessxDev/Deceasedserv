@@ -9,4 +9,33 @@
 #
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
-regions: {}
+regions:
+    ps-122x119y172z:
+        min: {x: -130, y: -32768, z: 164}
+        max: {x: -114, y: 32767, z: 180}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
+                §b§lSR_Senna1990's §f§lprotected area, greeting-action: §lEntering
+                §b§lSR_Senna1990's §f§lprotected area, greeting: §lEntering §b§lSR_Senna1990's
+                §f§lprotected area, pvp: deny, ps-home: -122.0 120.0 172.0, tnt: deny,
+            ps-tax-autopayer: 7c3bf146-2566-316c-9f6e-3ef3642cfd29, ghast-fireball: deny,
+            ps-block-material: IRON_ORE, farewell: §lLeaving §b§lSR_Senna1990's §f§lprotected
+                area}
+        owners:
+            unique-ids: [7c3bf146-2566-316c-9f6e-3ef3642cfd29]
+        type: cuboid
+        priority: 0
+    ps-102x120y146z:
+        min: {x: -110, y: -32768, z: 138}
+        max: {x: -94, y: 32767, z: 154}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
+                §b§lYuu_Aoi's §f§lprotected area, greeting-action: §lEntering §b§lYuu_Aoi's
+                §f§lprotected area, greeting: §lEntering §b§lYuu_Aoi's §f§lprotected
+                area, pvp: deny, ps-home: -102.0 121.0 146.0, tnt: deny, ps-tax-autopayer: 7ce2d9ce-d1cb-3c6f-bfbd-489006d6794e,
+            ghast-fireball: deny, ps-block-material: IRON_ORE, farewell: §lLeaving
+                §b§lYuu_Aoi's §f§lprotected area}
+        owners:
+            unique-ids: [7ce2d9ce-d1cb-3c6f-bfbd-489006d6794e]
+        type: cuboid
+        priority: 0

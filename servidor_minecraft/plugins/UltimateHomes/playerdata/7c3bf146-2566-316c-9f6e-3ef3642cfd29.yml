@@ -3,9 +3,9 @@ player:
     lastSeenAs: SR_Senna1990
 homes:
   home:
-    x: 395
-    y: 71
-    z: 72
-    yaw: 79.80737
-    pitch: 38.55026
+    x: -122
+    y: 119
+    z: 169
+    yaw: -149.41063
+    pitch: 38.99996
     world: world

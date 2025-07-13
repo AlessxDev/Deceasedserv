@@ -470,3 +470,256 @@
 [02:10:48] [Server thread/INFO]: SR_PYCHON has made the advancement [Stone Age]
 [02:10:56] [Server thread/INFO]: the_davidx lost connection: Disconnected
 [02:11:04] [Server thread/INFO]: SR_PYCHON has made the advancement [Getting an Upgrade]
+[02:11:14] [User Authenticator #20/INFO]: UUID of player the_davidx is 5a0b58ef-d3b0-3dad-b20c-fd2837daac87
+[02:11:15] [Server thread/INFO]: the_davidx[/127.171.174.63:34101] logged in with entity id 137211 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:11:25] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user the_davidx has successfully logged in.
+[02:11:27] [Server thread/INFO]: SR_Senna1990 lost connection: Disconnected
+[02:11:29] [User Authenticator #20/INFO]: UUID of player SR_Senna1990 is 7c3bf146-2566-316c-9f6e-3ef3642cfd29
+[02:11:30] [Server thread/INFO]: SR_Senna1990[/127.201.126.209:50733] logged in with entity id 138107 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:11:37] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user SR_Senna1990 has successfully logged in.
+[02:12:21] [Server thread/INFO]: patatin24 hit the ground too hard
+[02:12:32] [AsyncNotifyKeyedQueue - 13/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:12:32] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:12:44] [Server thread/INFO]: Pico_minecraft has made the advancement [Ice Bucket Challenge]
+[02:13:07] [Server thread/INFO]: iPlair has made the advancement [Getting an Upgrade]
+[02:13:27] [Async Chat Thread - #44/INFO]: [Not Secure] <the_davidx> creo que si van a hacer villa xd
+[02:13:32] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[02:13:32] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[02:13:38] [Async Chat Thread - #44/INFO]: [Not Secure] <ajxss> a que spawn van?
+[02:13:42] [Async Chat Thread - #44/INFO]: [Not Secure] <patatin24> que bueno :v
+[02:13:48] [Async Chat Thread - #44/INFO]: [Not Secure] <ajxss> si es el spawn spawn pues /spawn XD
+[02:13:50] [Async Chat Thread - #44/INFO]: [Not Secure] <the_davidx> al spaw ps
+[02:13:58] [Server thread/INFO]: ajxss issued server command: /spawn
+[02:13:59] [Async Chat Thread - #44/INFO]: [Not Secure] <SR_Senna1990> asete tpa
+[02:14:04] [User Authenticator #21/INFO]: UUID of player DanAlester is c314d1a7-3bb1-354a-bce8-e64e9f3fad24
+[02:14:05] [Server thread/INFO]: DanAlester[/127.63.235.141:40415] logged in with entity id 142199 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:14:06] [Server thread/INFO]: sisoydanocraft has made the advancement [Monster Hunter]
+[02:14:13] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user DanAlester has successfully logged in.
+[02:14:50] [Async Chat Thread - #44/INFO]: [Not Secure] <ajxss> si quieren ir al spawn /spawn o se refieren al spawn del de donde aparecen al entrar al survival?
+[02:14:56] [Server thread/INFO]: SR_PYCHON has made the advancement [Monster Hunter]
+[02:15:15] [Server thread/INFO]: iPlair has made the advancement [Sweet Dreams]
+[02:15:30] [Server thread/INFO]: ajxss issued server command: /tp Yuu_Aoi
+[02:15:30] [Server thread/INFO]: [ajxss: Teleported ajxss to Yuu_Aoi]
+[02:15:35] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[02:15:35] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[02:15:37] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[02:15:37] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[02:15:41] [Server thread/INFO]: the_davidx issued server command: /spawn
+[02:15:48] [Server thread/INFO]: the_davidx issued server command: /spawn
+[02:15:50] [Async Chat Thread - #45/INFO]: [Not Secure] <ajxss> csm
+[02:15:55] [Async Chat Thread - #45/INFO]: [Not Secure] <ajxss> mi lag causa
+[02:15:57] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> XDD
+[02:15:59] [Server thread/INFO]: Yuu_Aoi issued server command: /tp DanAlester
+[02:15:59] [Server thread/INFO]: [Yuu_Aoi: Teleported Yuu_Aoi to DanAlester]
+[02:16:02] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> t
+[02:16:07] [Server thread/INFO]: the_davidx issued server command: /spawn
+[02:16:08] [Async Chat Thread - #45/INFO]: [Not Secure] <SR_PYCHON> mi ping XD
+[02:16:09] [Server thread/INFO]: iPlair has made the advancement [Acquire Hardware]
+[02:16:13] [Async Chat Thread - #45/INFO]: [Not Secure] <patatin24> q fue con mi skin de maid :V
+[02:16:15] [Async Chat Thread - #45/INFO]: [Not Secure] <SR_PYCHON> LLEGO A 1100
+[02:16:17] [Async Chat Thread - #45/INFO]: [Not Secure] <SR_Senna1990> exploto un creeper en el spaw
+[02:16:19] [Server thread/INFO]: ajxss issued server command: /mv tp world
+[02:16:22] [AsyncNotifyKeyedQueue - 14/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:16:22] [Server thread/INFO]: Teleported the_davidx to w:world.
+[02:16:24] [Async Chat Thread - #45/INFO]: [Not Secure] <patatin24> toi full man
+[02:16:27] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> hello
+[02:16:45] [Server thread/INFO]: SR_PYCHON was blown up by Creeper
+[02:16:45] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> AMEN
+[02:16:52] [AsyncNotifyKeyedQueue - 14/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:16:52] [Server thread/INFO]: Teleported SR_PYCHON to w:world.
+[02:17:01] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> oh arreglen ese hueco
+[02:17:04] [Server thread/INFO]: ajxss issued server command: /ps give 8 ajxss
+[02:17:08] [Server thread/INFO]: IIFears has made the advancement [Acquire Hardware]
+[02:17:10] [Async Chat Thread - #45/INFO]: [Not Secure] <patatin24> q visto un mejor sitio
+[02:17:14] [Server thread/INFO]: iPlair has made the advancement [Isn't It Iron Pick]
+[02:17:15] [Server thread/INFO]: IIFears has made the advancement [Isn't It Iron Pick]
+[02:17:15] [Async Chat Thread - #45/INFO]: [Not Secure] <patatin24> esta por ahi
+[02:17:16] [Async Chat Thread - #45/INFO]: [Not Secure] <SR_Senna1990> sorry
+[02:17:20] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:17:23] [Server thread/INFO]: Zhoomker has made the advancement [Cover Me with Diamonds]
+[02:17:27] [Async Chat Thread - #45/INFO]: [Not Secure] <the_davidx> en algun lugar plano
+[02:17:50] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:17:50] [Server thread/INFO]: DanAlester lost connection: Timed out
+[02:17:55] [Server thread/INFO]: Pico_minecraft has made the advancement [Cover Me with Diamonds]
+[02:18:01] [Server thread/INFO]: sisoydanocraft has made the advancement [Sneak 100]
+[02:18:13] [Async Chat Thread - #45/INFO]: [Not Secure] <sisoydanocraft> chicos pasaron cositas
+[02:18:19] [Server thread/INFO]: patatin24 has made the advancement [Stone Age]
+[02:18:29] [Server thread/INFO]: patatin24 has made the advancement [Monster Hunter]
+[02:19:09] [Server thread/INFO]: iPlair has made the advancement [Monster Hunter]
+[02:19:35] [Async Chat Thread - #47/INFO]: [Not Secure] <ajxss> oeoe
+[02:19:38] [Async Chat Thread - #47/INFO]: [Not Secure] <ajxss> mi casa
+[02:19:45] [Async Chat Thread - #47/INFO]: [Not Secure] <sisoydanocraft> chicos se bienen cositas :(
+[02:20:07] [Server thread/INFO]: patatin24 has made the advancement [Getting an Upgrade]
+[02:20:15] [Server thread/INFO]: IIFears has made the advancement [Suit Up]
+[02:20:20] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:21:11] [Async Chat Thread - #49/INFO]: [Not Secure] <patatin24> he visto un lugar bonito esta por arriba
+[02:21:28] [Server thread/INFO]: iPlair lost connection: Disconnected
+[02:21:34] [Server thread/INFO]: ajxss has completed the challenge [Cover Me in Debris]
+[02:21:54] [Async Chat Thread - #49/INFO]: [Not Secure] <SR_Senna1990> deja de sacar cosas de creativo
+[02:22:00] [Async Chat Thread - #49/INFO]: [Not Secure] <the_davidx> Donde estan? XD
+[02:22:05] [Async Chat Thread - #49/INFO]: [Not Secure] <ajxss> pero si soy admin, no jugare XD
+[02:22:09] [Async Chat Thread - #49/INFO]: [Not Secure] <the_davidx> Pasen coords
+[02:22:15] [Async Chat Thread - #49/INFO]: [Not Secure] <SR_Senna1990> xd
+[02:22:49] [Async Chat Thread - #49/INFO]: [Not Secure] <Yuu_Aoi> -101 140
+[02:23:01] [Async Chat Thread - #49/INFO]: [Not Secure] <patatin24> oe
+[02:23:01] [Server thread/INFO]: patatin24 was slain by SR_Senna1990
+[02:23:06] [Async Chat Thread - #50/INFO]: [Not Secure] <SR_Senna1990> xdddd
+[02:23:06] [Async Chat Thread - #50/INFO]: [Not Secure] <patatin24> :v
+[02:23:08] [Async Chat Thread - #50/INFO]: [Not Secure] <ajxss> XD
+[02:23:10] [AsyncNotifyKeyedQueue - 15/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:23:10] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:23:10] [AsyncNotifyKeyedQueue - 15/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:23:10] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:23:14] [Async Chat Thread - #50/INFO]: [Not Secure] <ajxss> oeoe asesinato
+[02:23:21] [Async Chat Thread - #50/INFO]: [Not Secure] <patatin24> ;v
+[02:23:23] [Async Chat Thread - #50/INFO]: [Not Secure] <SR_Senna1990> me cague perdon
+[02:23:25] [Server thread/INFO]: IIFears has made the advancement [Diamonds!]
+[02:23:46] [Server thread/INFO]: ajxss issued server command: /ps give 8 ajxss
+[02:23:50] [Async Chat Thread - #50/INFO]: [Not Secure] <patatin24> dejenlo al senna
+[02:24:20] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:24:27] [Server thread/INFO]: patatin24 froze to death
+[02:24:37] [AsyncNotifyKeyedQueue - 16/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:24:37] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:24:50] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:24:53] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[02:24:53] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[02:24:55] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[02:24:55] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[02:24:56] [Async Chat Thread - #51/INFO]: [Not Secure] <SR_Senna1990> no hay un bloque de proteccion de area mas grande?
+[02:25:12] [Async Chat Thread - #51/INFO]: [Not Secure] <ajxss> por el momento no
+[02:25:13] [Async Chat Thread - #51/INFO]: [Not Secure] <ajxss> xd
+[02:25:20] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:25:26] [Async Chat Thread - #51/INFO]: [Not Secure] <the_davidx> o ya estoy en las coords XD no hay nadie
+[02:26:07] [Async Chat Thread - #51/INFO]: [Not Secure] <the_davidx> oe patapin
+[02:26:12] [Async Chat Thread - #51/INFO]: [Not Secure] <patatin24> diga
+[02:26:26] [Async Chat Thread - #51/INFO]: [Not Secure] <the_davidx> pasa las corrds
+[02:26:32] [Async Chat Thread - #51/INFO]: [Not Secure] <patatin24> son
+[02:26:51] [Async Chat Thread - #51/INFO]: [Not Secure] <patatin24> X -116 Y 119
+[02:27:10] [Async Chat Thread - #51/INFO]: [Not Secure] <the_davidx> tmr me paltie XDD
+[02:27:27] [Async Chat Thread - #51/INFO]: [Not Secure] <the_davidx> eran positivos estoy en nagativos XDD
+[02:28:27] [Server thread/INFO]: the_davidx has made the advancement [Isn't It Iron Pick]
+[02:28:41] [Server thread/INFO]: patatin24 was slain by Zombie
+[02:28:45] [AsyncNotifyKeyedQueue - 17/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:28:45] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:28:45] [AsyncNotifyKeyedQueue - 17/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:28:45] [Server thread/INFO]: Teleported patatin24 to w:world.
+[02:29:39] [Async Chat Thread - #53/INFO]: [Not Secure] <patatin24> C Casa parece la casa de patricio estrella
+[02:29:50] [Server thread/INFO]: sisoydanocraft has made the advancement [Isn't It Iron Pick]
+[02:29:52] [Server thread/INFO]: Zhoomker issued server command: /spawn
+[02:30:10] [Async Chat Thread - #53/INFO]: [Not Secure] <the_davidx> Sa casa?
+[02:30:21] [Server thread/INFO]: Teleported Zhoomker to w:world.
+[02:30:32] [Async Chat Thread - #53/INFO]: [Not Secure] <ajxss> me invaden causa
+[02:31:36] [Server thread/INFO]: patatin24 has made the advancement [Acquire Hardware]
+[02:31:50] [Server thread/INFO]: Zhoomker has made the advancement [Not Today, Thank You]
+[02:31:55] [Server thread/INFO]: SR_PYCHON has made the advancement [Acquire Hardware]
+[02:32:02] [Server thread/INFO]: SR_PYCHON has made the advancement [Isn't It Iron Pick]
+[02:32:15] [Server thread/WARN]: sisoydanocraft moved too quickly! 7.269121985457559,-1.5813359922251706,-18.175794899145387
+[02:33:01] [Server thread/INFO]: sisoydanocraft has made the advancement [Diamonds!]
+[02:34:41] [Async Chat Thread - #55/INFO]: [Not Secure] <patatin24> hallo
+[02:34:47] [Async Chat Thread - #55/INFO]: [Not Secure] <ajxss> alo
+[02:34:47] [Async Chat Thread - #55/INFO]: [Not Secure] <the_davidx> llego la invasion
+[02:35:09] [Async Chat Thread - #55/INFO]: [Not Secure] <ajxss> oeoe mi casa
+[02:35:11] [Async Chat Thread - #55/INFO]: [Not Secure] <ajxss> me la invaden
+[02:35:21] [Async Chat Thread - #55/INFO]: [Not Secure] <the_davidx> fue mano hora te pagar cupo
+[02:39:22] [Async Chat Thread - #57/INFO]: [Not Secure] <Pico_minecraft> pasen coordenadas pls
+[02:39:33] [Async Chat Thread - #57/INFO]: [Not Secure] <Pico_minecraft> me perdi
+[02:39:39] [Async Chat Thread - #57/INFO]: [Not Secure] <Yuu_Aoi> jaja perame
+[02:39:42] [Async Chat Thread - #58/INFO]: [Not Secure] <SR_Senna1990> VC ?
+[02:39:45] [Async Chat Thread - #58/INFO]: [Not Secure] <the_davidx> -107 138
+[02:40:00] [Async Chat Thread - #58/INFO]: [Not Secure] <Yuu_Aoi> -102 142
+[02:40:09] [Async Chat Thread - #58/INFO]: [Not Secure] <ajxss> como tamo oe csm
+[02:40:32] [Async Chat Thread - #58/INFO]: [Not Secure] <the_davidx> o junn era hacer una casa no una mansion
+[02:41:34] [Server thread/INFO]: ajxss issued server command: /gamemode survival
+[02:41:34] [Server thread/INFO]: [ajxss: Set own game mode to Survival Mode]
+[02:41:35] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[02:41:35] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[02:41:41] [Async Chat Thread - #59/INFO]: [Not Secure] <the_davidx> Xd
+[02:41:44] [Server thread/WARN]: sisoydanocraft was kicked for floating too long!
+[02:41:44] [Server thread/INFO]: sisoydanocraft lost connection: Flying is not enabled on this server
+[02:41:52] [Server thread/INFO]: SR_Senna1990 issued server command: /sethome
+[02:42:00] [User Authenticator #22/INFO]: UUID of player sisoydanocraft is db7bd0a9-c0d7-3a88-a244-0b79db717908
+[02:42:01] [Server thread/INFO]: sisoydanocraft[/127.46.165.22:53725] logged in with entity id 173167 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:42:45] [Server thread/INFO]: sisoydanocraft lost connection: You took too long to login.
+[02:42:53] [User Authenticator #22/INFO]: UUID of player sisoydanocraft is db7bd0a9-c0d7-3a88-a244-0b79db717908
+[02:42:53] [Server thread/INFO]: sisoydanocraft[/127.46.165.22:33777] logged in with entity id 176471 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:43:06] [Async Chat Thread - #61/INFO]: [Not Secure] <Pico_minecraft> OLAAAAAAAAAAA
+[02:43:17] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user sisoydanocraft has successfully logged in.
+[02:45:50] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:46:31] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[02:46:31] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[02:46:34] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[02:46:34] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[02:47:35] [Server thread/INFO]: Pico_minecraft issued server command: /XD
+[02:47:40] [Server thread/INFO]: ajxss issued server command: /gamemode spectator
+[02:47:40] [Server thread/INFO]: [ajxss: Set own game mode to Spectator Mode]
+[02:47:42] [Async Chat Thread - #63/INFO]: [Not Secure] <Pico_minecraft> le vea la falda a mi fear
+[02:47:44] [Server thread/INFO]: ajxss issued server command: /gamemode creative
+[02:47:44] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[02:48:28] [User Authenticator #23/INFO]: UUID of player vRxdr is 394cf7f4-1913-30fd-a5fa-37fac480f648
+[02:48:29] [Server thread/INFO]: vRxdr[/127.176.216.147:43065] logged in with entity id 181045 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:48:35] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user vRxdr has successfully registered.
+[02:48:40] [Async Chat Thread - #63/INFO]: [Not Secure] <vRxdr> uyuyuyuyu
+[02:48:43] [Server thread/INFO]: Teleported vRxdr to w:world.
+[02:49:06] [Server thread/INFO]: IIFears has made the advancement [Sweet Dreams]
+[02:49:12] [Async Chat Thread - #63/INFO]: [Not Secure] <Yuu_Aoi> vayanse p
+[02:49:15] [Server thread/INFO]: vRxdr was blown up by Creeper
+[02:49:17] [Async Chat Thread - #63/INFO]: [Not Secure] <Yuu_Aoi> dejen construir
+[02:49:26] [Server thread/INFO]: Teleported vRxdr to w:world.
+[02:49:33] [Async Chat Thread - #63/INFO]: [Not Secure] <the_davidx> listo ya tengo casa
+[02:49:35] [Server thread/INFO]: vRxdr lost connection: Disconnected
+[02:49:45] [User Authenticator #24/INFO]: UUID of player vRxdr is 394cf7f4-1913-30fd-a5fa-37fac480f648
+[02:49:46] [Server thread/INFO]: vRxdr[/127.176.216.147:39593] logged in with entity id 183097 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:49:51] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user vRxdr has successfully logged in.
+[02:50:04] [Server thread/INFO]: vRxdr lost connection: Disconnected
+[02:50:15] [User Authenticator #24/INFO]: UUID of player vRxdr is 394cf7f4-1913-30fd-a5fa-37fac480f648
+[02:50:16] [Server thread/INFO]: vRxdr[/127.176.216.147:43129] logged in with entity id 183735 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:50:18] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user vRxdr has successfully logged in.
+[02:50:55] [Async Chat Thread - #65/INFO]: [Not Secure] <Yuu_Aoi> owa
+[02:51:02] [Server thread/INFO]: Pico_minecraft issued server command: /ola
+[02:51:05] [Async Chat Thread - #65/INFO]: [Not Secure] <Pico_minecraft> ola
+[02:51:05] [Async Chat Thread - #66/INFO]: [Not Secure] <ajxss> wa
+[02:51:08] [Async Chat Thread - #66/INFO]: [Not Secure] <sisoydanocraft> D:
+[02:51:16] [Async Chat Thread - #66/INFO]: [Not Secure] <Pico_minecraft> veniamos a quemar todo pero no tenemos lava
+[02:51:24] [Async Chat Thread - #66/INFO]: [Not Secure] <Pico_minecraft> XD
+[02:51:33] [Async Chat Thread - #66/INFO]: [Not Secure] <Yuu_Aoi> los quiero <3 :(
+[02:52:15] [Server thread/WARN]: sisoydanocraft moved too quickly! -10.77335908312287,6.164773281826058,-11.402769832609344
+[02:52:15] [Server thread/INFO]: ajxss lost connection: Disconnected
+[02:52:50] [Server thread/INFO]: vRxdr has made the advancement [Stone Age]
+[02:53:10] [Async Chat Thread - #67/INFO]: [Not Secure] <patatin24> banda me voy a jugar roblox
+[02:53:11] [Server thread/INFO]: patatin24 lost connection: Disconnected
+[02:53:12] [Server thread/INFO]: vRxdr has made the advancement [Getting an Upgrade]
+[02:53:27] [Async Chat Thread - #67/INFO]: [Not Secure] <vRxdr> pasen cords
+[02:53:35] [Async Chat Thread - #67/INFO]: [Not Secure] <Pico_minecraft> no invitan
+[02:53:35] [Server thread/INFO]: Made Yuu_Aoi a server operator
+[02:53:49] [Server thread/INFO]: vRxdr lost connection: Disconnected
+[02:53:59] [Server thread/INFO]: Pico_minecraft has made the advancement [Sound of Music]
+[02:54:19] [User Authenticator #25/INFO]: UUID of player vRxdr is 394cf7f4-1913-30fd-a5fa-37fac480f648
+[02:54:20] [Server thread/INFO]: vRxdr[/127.176.216.147:57595] logged in with entity id 185907 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[02:54:29] [Server thread/INFO]: vRxdr lost connection: Disconnected
+[02:54:49] [Server thread/INFO]: SR_PYCHON was slain by Zombie
+[02:54:56] [AsyncNotifyKeyedQueue - 18/INFO]: Invalid value for [] (Does not match a valid block type: minecraft:tp), acceptable values are any pattern
+[02:54:56] [Server thread/INFO]: Teleported SR_PYCHON to w:world.
+[02:55:29] [Async Chat Thread - #69/INFO]: [Not Secure] <sisoydanocraft> zhoomker :D
+[02:55:37] [Async Chat Thread - #69/INFO]: [Not Secure] <Zhoomker> Danoo
+[02:55:50] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[02:56:17] [Async Chat Thread - #69/INFO]: [Not Secure] <Pico_minecraft> MIS COSAS
+[02:56:21] [Async Chat Thread - #69/INFO]: [Not Secure] <IIFears> JASDJADJA
+[02:56:38] [Server thread/INFO]: Pico_minecraft issued server command: /lito
+[02:56:41] [Async Chat Thread - #69/INFO]: [Not Secure] <Pico_minecraft> lito
+[02:56:49] [Async Chat Thread - #69/INFO]: [Not Secure] <Pico_minecraft> ese se metio el solo
+[02:57:00] [Async Chat Thread - #69/INFO]: [Not Secure] <Pico_minecraft> XD
+[02:57:17] [Async Chat Thread - #69/INFO]: [Not Secure] <IIFears> the_davidx tiene sentimientos
+[02:57:19] [Server thread/WARN]: sisoydanocraft moved too quickly! 15.674819613535732,2.249187078744683,-4.752193112916736
+[02:59:25] [Async Chat Thread - #71/INFO]: [Not Secure] <Pico_minecraft> alguien me da diamantes es para la mesa de cantamiento
+[02:59:46] [Async Chat Thread - #71/INFO]: [Not Secure] <Zhoomker> donde estas
+[02:59:50] [Server thread/INFO]: sisoydanocraft fell from a high place
+[02:59:58] [Server thread/INFO]: IIFears has made the advancement [Sound of Music]
+[03:00:09] [Server thread/INFO]: Teleported sisoydanocraft to w:world.
+[03:00:11] [Async Chat Thread - #71/INFO]: [Not Secure] <Pico_minecraft> aqui donde esta con yuu
+[03:00:44] [Server thread/WARN]: sisoydanocraft was kicked due to keepalive timeout!
+[03:00:44] [Server thread/INFO]: sisoydanocraft lost connection: Timed out
+[03:01:25] [Async Chat Thread - #73/INFO]: [Not Secure] <Pico_minecraft> gracias
+[03:01:38] [User Authenticator #26/INFO]: UUID of player sisoydanocraft is db7bd0a9-c0d7-3a88-a244-0b79db717908
+[03:01:39] [Server thread/INFO]: sisoydanocraft[/127.46.165.22:53017] logged in with entity id 190701 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[03:01:48] [Server thread/INFO]: Pico_minecraft has made the advancement [Enchanter]
+[03:01:53] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user sisoydanocraft has successfully logged in.
