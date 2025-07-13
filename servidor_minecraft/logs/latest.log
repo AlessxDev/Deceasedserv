@@ -12,3 +12,7 @@
 [00:04:47] [Server thread/INFO]: ajxss issued server command: /spawn
 [00:04:51] [Server thread/INFO]: ajxss issued server command: /gamemode creative
 [00:04:51] [Server thread/INFO]: [ajxss: Set own game mode to Creative Mode]
+[00:10:40] [Server thread/INFO]: ajxss lost connection: Disconnected
+[00:17:20] [User Authenticator #1/INFO]: UUID of player Yuu_Aoi is 7ce2d9ce-d1cb-3c6f-bfbd-489006d6794e
+[00:17:21] [Server thread/INFO]: Yuu_Aoi[/127.249.130.8:36449] logged in with entity id 25578 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[00:18:03] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user Yuu_Aoi has successfully registered.
