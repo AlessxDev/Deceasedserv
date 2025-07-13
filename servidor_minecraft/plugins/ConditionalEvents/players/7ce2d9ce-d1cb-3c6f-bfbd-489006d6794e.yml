@@ -1,0 +1,5 @@
+name: Yuu_Aoi
+events:
+  prote:
+    one_time: true
+    cooldown: 0
