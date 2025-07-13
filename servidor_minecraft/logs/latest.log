@@ -16,3 +16,11 @@
 [00:17:20] [User Authenticator #1/INFO]: UUID of player Yuu_Aoi is 7ce2d9ce-d1cb-3c6f-bfbd-489006d6794e
 [00:17:21] [Server thread/INFO]: Yuu_Aoi[/127.249.130.8:36449] logged in with entity id 25578 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
 [00:18:03] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user Yuu_Aoi has successfully registered.
+[00:20:40] [Server thread/INFO]: Yuu_Aoi lost connection: Disconnected
+[00:21:49] [User Authenticator #2/INFO]: UUID of player SR_Senna1990 is 7c3bf146-2566-316c-9f6e-3ef3642cfd29
+[00:21:50] [Server thread/INFO]: SR_Senna1990[/127.201.126.209:34081] logged in with entity id 38280 at ([spawn]-72.61201618260941, 4.0, 0.49584076654303966)
+[00:22:15] [Folia Async Scheduler Thread #2/INFO]: [nLogin] The user SR_Senna1990 has successfully logged in.
+[00:28:57] [Server thread/INFO]: Villager EntityVillager['Fletcher'/39826, uuid='2eb4467a-2586-495b-8f0a-d7ff798f2065', l='ServerLevel[world]', x=393.30, y=71.00, z=78.70, cpos=[24, 4], tl=337942, v=true] died, message: 'Fletcher was shot by SR_Senna1990'
+[00:29:00] [Server thread/INFO]: Villager EntityVillager['Armorer'/39827, uuid='69a96aeb-bb0c-4a54-aff5-7f5b8c5bbd03', l='ServerLevel[world]', x=395.70, y=71.00, z=78.70, cpos=[24, 4], tl=336955, v=true] died, message: 'Armorer was shot by SR_Senna1990'
+[00:29:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/39829, uuid='2ecebfcc-5298-4a99-aadd-2281c49ea451', l='ServerLevel[world]', x=391.66, y=71.00, z=78.39, cpos=[24, 4], tl=337753, v=true] died, message: 'Fletcher was shot by SR_Senna1990'
+[00:29:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/39828, uuid='1159cd3b-767e-4713-b3e4-21c76943e6d3', l='ServerLevel[world]', x=389.37, y=71.00, z=78.70, cpos=[24, 4], tl=338494, v=true] died, message: 'Farmer was shot by SR_Senna1990'
