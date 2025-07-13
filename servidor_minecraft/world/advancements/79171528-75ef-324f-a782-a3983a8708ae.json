@@ -372,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-13 03:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-13 01:10:12 +0000"
@@ -528,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-13 03:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-13 02:31:50 +0000"
@@ -651,6 +663,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-13 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-13 03:14:41 +0000"
     },
     "done": true
   },
@@ -984,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-13 03:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-13 02:31:52 +0000",
@@ -991,7 +1015,8 @@
       "minecraft:enderman": "2025-07-13 02:53:51 +0000",
       "minecraft:spider": "2025-07-13 01:04:41 +0000",
       "minecraft:zombie": "2025-07-13 02:04:42 +0000",
-      "minecraft:creeper": "2025-07-13 01:11:41 +0000"
+      "minecraft:creeper": "2025-07-13 01:11:41 +0000",
+      "minecraft:drowned": "2025-07-13 03:10:35 +0000"
     },
     "done": false
   },
@@ -1184,6 +1209,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-13 01:09:28 +0000",
+      "rotten_flesh": "2025-07-13 03:12:13 +0000",
       "salmon": "2025-07-13 01:11:16 +0000",
       "cooked_salmon": "2025-07-13 01:35:33 +0000"
     },
@@ -1327,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-07-13 03:12:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-13 02:04:27 +0000"
@@ -1396,6 +1428,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-13 02:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-13 03:14:41 +0000"
     },
     "done": true
   },
